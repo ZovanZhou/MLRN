@@ -1,0 +1,13 @@
+CUDA_VISIBLE_DEVICES=1 python main.py \
+    --seed 0 \
+    --order 1 \
+    --lr 1e-5 \
+    --opt adam \
+    --gamma 0.5 \
+    --epoch 200 \
+    --dataset snips \
+    --batch_size 14 \
+    --dropout_rate 0.5 \
+    --graph_attn_heads 2 \
+    --graph_output_dim 512 \
+    --rm_num \

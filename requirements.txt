@@ -1,0 +1,5 @@
+tensorflow-gpu==2.3.0
+tensorflow-addons==0.11.2
+tqdm==4.62.1
+keras-bert==0.86.0
+stanfordcorenlp==3.9.1.1

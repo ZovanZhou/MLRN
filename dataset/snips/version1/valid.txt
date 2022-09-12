@@ -1,0 +1,7965 @@
+AddToPlaylist
+estelle	B-	artist
+should	O	O
+be	O	O
+on	O	O
+my	B-	playlist_owner
+spring	B-	playlist
+playlist	O	O
+
+AddToPlaylist
+can	O	O
+jovino	B-	artist
+santos	I-	artist
+neto	I-	artist
+'s	O	O
+album	B-	music_item
+get	O	O
+added	O	O
+to	O	O
+my	B-	playlist_owner
+confidence	B-	playlist
+boost	I-	playlist
+playlist?	O	O
+
+AddToPlaylist
+add	O	O
+to	O	O
+ila's	B-	playlist_owner
+playlist	O	O
+a	B-	playlist
+mi	I-	playlist
+manera	I-	playlist
+recopilatorio	I-	playlist
+the	O	O
+name	O	O
+my	B-	entity_name
+heart	I-	entity_name
+stood	I-	entity_name
+still	I-	entity_name
+
+AddToPlaylist
+add	O	O
+sam	B-	artist
+sparro	I-	artist
+to	O	O
+my	B-	playlist_owner
+playlist	O	O
+called	O	O
+beach	B-	playlist
+vibes	I-	playlist
+
+AddToPlaylist
+please	O	O
+put	O	O
+this	O	O
+song	B-	music_item
+onto	O	O
+my	B-	playlist_owner
+urban	B-	playlist
+hits	I-	playlist
+playlist.	O	O
+
+AddToPlaylist
+add	O	O
+hey,	B-	entity_name
+johnnie	I-	entity_name
+cope,	I-	entity_name
+are	I-	entity_name
+ye	I-	entity_name
+waking	I-	entity_name
+yet	I-	entity_name
+to	O	O
+year	B-	playlist
+in	I-	playlist
+metal	I-	playlist
+2016	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+this	O	O
+track	B-	music_item
+to	O	O
+my	B-	playlist_owner
+rock	B-	playlist
+hard	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+seek	B-	entity_name
+&	I-	entity_name
+destroy	I-	entity_name
+to	O	O
+sin	B-	playlist
+ti	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+i'd	O	O
+like	O	O
+for	O	O
+you	O	O
+to	O	O
+put	O	O
+this	O	O
+artist	B-	music_item
+to	O	O
+my	B-	playlist_owner
+evening	B-	playlist
+commute	I-	playlist
+playlist.	O	O
+
+AddToPlaylist
+add	O	O
+dave	B-	artist
+bickler	I-	artist
+to	O	O
+my	B-	playlist_owner
+all	B-	playlist
+out	I-	playlist
+90s	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+jeff	B-	artist
+burrows	I-	artist
+album	B-	music_item
+to	O	O
+my	B-	playlist_owner
+country	B-	playlist
+hits	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+francesco	B-	artist
+de	I-	artist
+gregori	I-	artist
+to	O	O
+my	B-	playlist_owner
+classical	B-	playlist
+new	I-	playlist
+releases	I-	playlist
+spotify	I-	playlist
+picks	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+play	O	O
+used	B-	entity_name
+to	I-	entity_name
+love	I-	entity_name
+her	I-	entity_name
+to	O	O
+my	B-	playlist_owner
+this	B-	playlist
+is	I-	playlist
+animal	I-	playlist
+collective	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+night	B-	entity_name
+and	I-	entity_name
+day	I-	entity_name
+to	O	O
+my	B-	playlist_owner
+lazy	B-	playlist
+chill	I-	playlist
+afternoon	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+jonny	B-	artist
+buckland	I-	artist
+to	O	O
+my	B-	playlist_owner
+playlist	O	O
+weekly	B-	playlist
+buzz	I-	playlist
+
+AddToPlaylist
+add	O	O
+tune	B-	music_item
+to	O	O
+composer	B-	playlist
+weekly	I-	playlist
+pauline	I-	playlist
+oliveros	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+blue	B-	entity_name
+feather	I-	entity_name
+to	O	O
+the	O	O
+nature	B-	playlist
+noise	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+spirit	B-	entity_name
+touches	I-	entity_name
+ground	I-	entity_name
+to	O	O
+my	B-	playlist_owner
+leche	B-	playlist
+con	I-	playlist
+chocolate	I-	playlist
+list	O	O
+
+AddToPlaylist
+add	O	O
+this	O	O
+tune	B-	music_item
+to	O	O
+my	B-	playlist_owner
+rock	B-	playlist
+this	I-	playlist
+
+AddToPlaylist
+include	O	O
+sean	B-	artist
+yseult	I-	artist
+in	O	O
+kaitlin's	B-	playlist_owner
+metal	B-	playlist
+overload	I-	playlist
+playlist.	O	O
+
+AddToPlaylist
+add	O	O
+even	B-	entity_name
+serpents	I-	entity_name
+shine	I-	entity_name
+to	O	O
+dorothea's	B-	playlist_owner
+indie	B-	playlist
+hipster	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+the	O	O
+big	B-	artist
+mama	I-	artist
+thornton	I-	artist
+song	B-	music_item
+to	O	O
+cassie's	B-	playlist_owner
+punk	B-	playlist
+rock	I-	playlist
+workout	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+this	O	O
+album	B-	music_item
+to	O	O
+my	B-	playlist_owner
+throwback	B-	playlist
+party	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+sorrow	B-	entity_name
+to	O	O
+my	B-	playlist_owner
+it's	B-	playlist
+ok	I-	playlist
+to	I-	playlist
+like	I-	playlist
+jazz	I-	playlist
+
+AddToPlaylist
+add	O	O
+this	O	O
+artist	B-	music_item
+to	O	O
+my	B-	playlist_owner
+jazz	B-	playlist
+playlist	O	O
+
+AddToPlaylist
+please	O	O
+add	O	O
+george	B-	artist
+nooks	I-	artist
+to	O	O
+my	B-	playlist_owner
+electronow	B-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+arthur	B-	artist
+lee	I-	artist
+to	O	O
+my	B-	playlist_owner
+jazz	B-	playlist
+vibes	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+lene	B-	artist
+lovich	I-	artist
+to	O	O
+my	B-	playlist_owner
+track	B-	music_item
+radar	B-	playlist
+latino	I-	playlist
+
+AddToPlaylist
+add	O	O
+dave	B-	artist
+carpenter	I-	artist
+to	O	O
+my	B-	playlist_owner
+acoustic	B-	playlist
+blues	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+this	O	O
+song	B-	music_item
+to	O	O
+this	B-	playlist
+is	I-	playlist
+no	I-	playlist
+te	I-	playlist
+va	I-	playlist
+gustar	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+this	O	O
+song	B-	music_item
+to	O	O
+country	B-	playlist
+coffeehouse	I-	playlist
+
+AddToPlaylist
+please	O	O
+add	O	O
+this	O	O
+track	B-	music_item
+to	O	O
+my	B-	playlist_owner
+de	B-	playlist
+camino	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+the	B-	entity_name
+wee	I-	entity_name
+wee	I-	entity_name
+man	I-	entity_name
+to	O	O
+pamela's	B-	playlist_owner
+stress	B-	playlist
+relief	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+cross	B-	entity_name
+bones	I-	entity_name
+style	I-	entity_name
+to	O	O
+guest	B-	playlist
+list	I-	playlist
+take	I-	playlist
+
+AddToPlaylist
+add	O	O
+this	O	O
+album	B-	music_item
+to	O	O
+my	B-	playlist_owner
+us	B-	playlist
+latin	I-	playlist
+top	I-	playlist
+50	I-	playlist
+palylist	O	O
+
+AddToPlaylist
+add	O	O
+the	B-	entity_name
+3rd	I-	entity_name
+world	I-	entity_name
+to	O	O
+my	B-	playlist_owner
+focus	B-	playlist
+now	I-	playlist
+
+AddToPlaylist
+add	O	O
+song	B-	music_item
+to	O	O
+daily	B-	playlist
+lift	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+your	B-	entity_name
+loving	I-	entity_name
+flame	I-	entity_name
+to	O	O
+my	B-	playlist_owner
+palylist	O	O
+rock	B-	playlist
+
+AddToPlaylist
+add	O	O
+a	O	O
+tune	B-	music_item
+in	O	O
+chill	B-	playlist
+vibes	I-	playlist
+
+AddToPlaylist
+put	O	O
+say	B-	entity_name
+it	I-	entity_name
+ain’t	I-	entity_name
+so	I-	entity_name
+into	O	O
+my	B-	playlist_owner
+trap	B-	playlist
+land	I-	playlist
+playlist.	O	O
+
+AddToPlaylist
+add	O	O
+jacob	B-	artist
+hoggard	I-	artist
+to	O	O
+my	B-	playlist_owner
+get	B-	playlist
+going	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+live	B-	entity_name
+from	I-	entity_name
+aragon	I-	entity_name
+ballroom	I-	entity_name
+to	O	O
+trapeo	B-	playlist
+
+AddToPlaylist
+put	O	O
+do	B-	entity_name
+you	I-	entity_name
+love	I-	entity_name
+me	I-	entity_name
+on	O	O
+my	B-	playlist_owner
+acoustic	B-	playlist
+soul	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+the	O	O
+track	B-	music_item
+by	O	O
+apostolos	B-	artist
+nikolaidis	I-	artist
+to	O	O
+the	O	O
+this	B-	playlist
+is	I-	playlist
+luis	I-	playlist
+fonsi	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+i'd	O	O
+like	O	O
+to	O	O
+add	O	O
+this	O	O
+album	B-	music_item
+to	O	O
+funtime	B-	playlist
+.	O	O
+
+AddToPlaylist
+add	O	O
+leah	B-	artist
+kauffman	I-	artist
+to	O	O
+my	B-	playlist_owner
+uncharted	B-	playlist
+4	I-	playlist
+nathan	I-	playlist
+drake	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+claudine	B-	artist
+longet	I-	artist
+to	O	O
+my	B-	playlist_owner
+ultimate	B-	playlist
+00s	I-	playlist
+palylist	O	O
+
+AddToPlaylist
+add	O	O
+armen	B-	artist
+movsessian	I-	artist
+to	O	O
+this	B-	playlist
+is	I-	playlist
+skepta	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+elastic	B-	entity_name
+love	I-	entity_name
+to	O	O
+this	B-	playlist
+is	I-	playlist
+stormzy	I-	playlist
+
+AddToPlaylist
+add	O	O
+unconscious	B-	entity_name
+state	I-	entity_name
+to	O	O
+my	B-	playlist_owner
+90s	B-	playlist
+smash	I-	playlist
+hits	I-	playlist
+
+AddToPlaylist
+add	O	O
+yuna	B-	artist
+ito	I-	artist
+to	O	O
+my	B-	playlist_owner
+cena	B-	playlist
+elegante	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+petar	B-	artist
+georgiev	I-	artist
+kalica	I-	artist
+song	B-	music_item
+to	O	O
+my	B-	playlist_owner
+push	B-	playlist
+button	I-	playlist
+funk	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+artist	B-	music_item
+steve	B-	artist
+cropper	I-	artist
+to	O	O
+rhythm	B-	playlist
+and	I-	playlist
+blues	I-	playlist
+
+AddToPlaylist
+add	O	O
+this	O	O
+song	B-	music_item
+by	O	O
+chieko	B-	artist
+ochi	I-	artist
+to	O	O
+the	O	O
+drum	B-	playlist
+&	I-	playlist
+breaks	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+this	O	O
+wayne	B-	artist
+raney	I-	artist
+tune	B-	music_item
+to	O	O
+my	B-	playlist_owner
+this	B-	playlist
+is	I-	playlist
+kudai	I-	playlist
+
+AddToPlaylist
+include	O	O
+hermann	B-	artist
+baumann	I-	artist
+in	O	O
+my	B-	playlist_owner
+texas	B-	playlist
+red	I-	playlist
+dirt	I-	playlist
+list	O	O
+
+AddToPlaylist
+add	O	O
+a	O	O
+jacob	B-	artist
+miller	I-	artist
+album	B-	music_item
+to	O	O
+my	B-	playlist_owner
+hardcore	B-	playlist
+punk	I-	playlist
+playlist.	O	O
+
+AddToPlaylist
+add	O	O
+this	O	O
+song	B-	music_item
+to	O	O
+my	B-	playlist_owner
+southern	B-	playlist
+gothic	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+this	O	O
+tune	B-	music_item
+to	O	O
+my	B-	playlist_owner
+in	B-	playlist
+the	I-	playlist
+arms	I-	playlist
+of	I-	playlist
+a	I-	playlist
+woman	I-	playlist
+
+AddToPlaylist
+add	O	O
+tune	B-	music_item
+to	O	O
+my	B-	playlist_owner
+playist	O	O
+the	B-	playlist
+piano	I-	playlist
+bar	I-	playlist
+
+AddToPlaylist
+add	O	O
+this	O	O
+tune	B-	music_item
+to	O	O
+rock	B-	playlist
+save	I-	playlist
+the	I-	playlist
+queen	I-	playlist
+
+AddToPlaylist
+add	O	O
+david	B-	artist
+axelrod	I-	artist
+to	O	O
+my	B-	playlist_owner
+futuros	B-	playlist
+hits	I-	playlist
+list	O	O
+
+AddToPlaylist
+add	O	O
+this	O	O
+song	B-	music_item
+to	O	O
+my	B-	playlist_owner
+the	B-	playlist
+perfect	I-	playlist
+italian	I-	playlist
+dinner	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+this	O	O
+song	B-	music_item
+to	O	O
+my	B-	playlist_owner
+indie	B-	playlist
+acoustic	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+i	O	O
+want	O	O
+another	O	O
+song	B-	music_item
+in	O	O
+my	B-	playlist_owner
+rock	B-	playlist
+español	I-	playlist
+playlist.	O	O
+
+AddToPlaylist
+can	O	O
+you	O	O
+add	O	O
+danny	B-	artist
+carey	I-	artist
+to	O	O
+my	B-	playlist_owner
+masters	B-	playlist
+of	I-	playlist
+metal	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+ashley	B-	artist
+mcisaac	I-	artist
+to	O	O
+my	B-	playlist_owner
+r&b	B-	playlist
+party	I-	playlist
+classics	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+please	O	O
+put	O	O
+an	O	O
+album	B-	music_item
+by	O	O
+joseph	B-	artist
+meyer	I-	artist
+on	O	O
+my	B-	playlist_owner
+pop	B-	playlist
+goes	I-	playlist
+the	I-	playlist
+80s	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+put	O	O
+kan	B-	artist
+mikami	I-	artist
+on	O	O
+pre-party	B-	playlist
+r&b	I-	playlist
+jams	I-	playlist
+
+AddToPlaylist
+add	O	O
+morten	B-	artist
+harket	I-	artist
+to	O	O
+this	B-	playlist
+is	I-	playlist
+puccini	I-	playlist
+
+AddToPlaylist
+add	O	O
+wastedagain	B-	entity_name
+to	O	O
+the	O	O
+wild	B-	playlist
+&	I-	playlist
+free	I-	playlist
+workout	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+this	O	O
+tune	B-	music_item
+to	O	O
+my	B-	playlist_owner
+party	B-	playlist
+¡fiesta	I-	playlist
+
+AddToPlaylist
+add	O	O
+the	O	O
+artist	B-	music_item
+tomohisa	B-	artist
+yamashita	I-	artist
+to	O	O
+the	O	O
+conexiones	B-	playlist
+playlist	O	O
+
+AddToPlaylist
+i'd	O	O
+like	O	O
+to	O	O
+add	O	O
+this	O	O
+tune	B-	music_item
+to	O	O
+my	B-	playlist_owner
+spotify	B-	playlist
+orchestra	I-	playlist
+cello	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+kloden	B-	entity_name
+drejer	I-	entity_name
+to	O	O
+my	B-	playlist_owner
+listas	B-	playlist
+de	I-	playlist
+éxitos	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+top	B-	playlist
+100	I-	playlist
+indie	I-	playlist
+tracks	I-	playlist
+on	I-	playlist
+spotify	I-	playlist
+to	O	O
+my	B-	playlist_owner
+track	B-	music_item
+
+AddToPlaylist
+put	O	O
+this	O	O
+track	B-	music_item
+by	O	O
+tony	B-	artist
+bevilacqua	I-	artist
+into	O	O
+joan's	B-	playlist_owner
+playlist	O	O
+with	O	O
+the	O	O
+title	O	O
+women	B-	playlist
+of	I-	playlist
+folk	I-	playlist
+&	I-	playlist
+americana	I-	playlist
+
+AddToPlaylist
+put	O	O
+this	O	O
+album	B-	music_item
+on	O	O
+my	B-	playlist_owner
+dubstep	B-	playlist
+dangles	I-	playlist
+dirty	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+george	B-	artist
+thorogood	I-	artist
+to	O	O
+el	B-	playlist
+mejor	I-	playlist
+rock	I-	playlist
+en	I-	playlist
+español	I-	playlist
+
+AddToPlaylist
+add	O	O
+tune	B-	music_item
+to	O	O
+my	B-	playlist_owner
+is	B-	playlist
+it	I-	playlist
+new	I-	playlist
+wave	I-	playlist
+
+AddToPlaylist
+add	O	O
+spanish	B-	entity_name
+castle	I-	entity_name
+magic	I-	entity_name
+to	O	O
+daily	B-	playlist
+lift	I-	playlist
+
+AddToPlaylist
+add	O	O
+cecil	B-	artist
+womack	I-	artist
+to	O	O
+my	B-	playlist_owner
+50	B-	playlist
+great	I-	playlist
+female	I-	playlist
+voices	I-	playlist
+playlist.	O	O
+
+AddToPlaylist
+add	O	O
+nitti	B-	artist
+to	O	O
+my	B-	playlist_owner
+family	B-	playlist
+favorites	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+tune	B-	music_item
+to	O	O
+my	B-	playlist_owner
+para	B-	playlist
+comer	I-	playlist
+
+AddToPlaylist
+add	O	O
+something	O	O
+by	O	O
+arnett	B-	artist
+cobb	I-	artist
+to	O	O
+my	B-	playlist_owner
+la	B-	playlist
+mejor	I-	playlist
+música	I-	playlist
+para	I-	playlist
+tus	I-	playlist
+fiestas	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+go	O	O
+to	O	O
+my	B-	playlist_owner
+all	B-	playlist
+out	I-	playlist
+00s	I-	playlist
+and	O	O
+add	O	O
+brian	B-	artist
+wilson	I-	artist
+
+AddToPlaylist
+add	O	O
+bob	B-	artist
+klose	I-	artist
+to	O	O
+la	B-	playlist
+mejor	I-	playlist
+música	I-	playlist
+para	I-	playlist
+tus	I-	playlist
+fiestas	I-	playlist
+
+AddToPlaylist
+add	O	O
+the	B-	entity_name
+unraveling	I-	entity_name
+to	O	O
+marina's	B-	playlist_owner
+playlist	O	O
+it's	B-	playlist
+a	I-	playlist
+southern	I-	playlist
+thing	I-	playlist
+
+AddToPlaylist
+add	O	O
+gregory	B-	artist
+douglass	I-	artist
+to	O	O
+my	B-	playlist_owner
+whm	B-	playlist
+list	O	O
+
+AddToPlaylist
+add	O	O
+artist	B-	music_item
+my	B-	playlist_owner
+laundry	B-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+the	O	O
+nastya	B-	artist
+kamenskih	I-	artist
+song	B-	music_item
+to	O	O
+my	B-	playlist_owner
+the	B-	playlist
+martin	I-	playlist
+garrix	I-	playlist
+show	I-	playlist
+playlist.	O	O
+
+AddToPlaylist
+add	O	O
+ivan	B-	artist
+mane	I-	artist
+jarnowick	I-	artist
+to	O	O
+fusion	B-	playlist
+fest	I-	playlist
+
+AddToPlaylist
+add	O	O
+track	B-	music_item
+70s	B-	playlist
+smash	I-	playlist
+hits	I-	playlist
+to	O	O
+my	B-	playlist_owner
+
+AddToPlaylist
+add	O	O
+back	B-	entity_name
+on	I-	entity_name
+the	I-	entity_name
+dancefloor	I-	entity_name
+to	O	O
+my	B-	playlist_owner
+bajo	B-	playlist
+las	I-	playlist
+estrellas	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+stephanie	B-	artist
+mcintosh	I-	artist
+to	O	O
+i	B-	playlist
+love	I-	playlist
+my	I-	playlist
+90s	I-	playlist
+hip	I-	playlist
+hop	I-	playlist
+my	B-	playlist_owner
+playlist	O	O
+
+AddToPlaylist
+please	O	O
+put	O	O
+another	O	O
+tune	B-	music_item
+into	O	O
+the	O	O
+laundry	B-	playlist
+playlist.	O	O
+
+AddToPlaylist
+add	O	O
+brian	B-	artist
+larsen	I-	artist
+to	O	O
+my	B-	playlist_owner
+digster	B-	playlist
+sleep	I-	playlist
+
+AddToPlaylist
+add	O	O
+this	O	O
+album	B-	music_item
+to	O	O
+my	B-	playlist_owner
+just	B-	playlist
+dance	I-	playlist
+by	I-	playlist
+aftercluv	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+bright	B-	entity_name
+and	I-	entity_name
+breezy	I-	entity_name
+to	O	O
+my	B-	playlist_owner
+this	B-	playlist
+is	I-	playlist
+gucci	I-	playlist
+mane	I-	playlist
+playlist	O	O
+
+AddToPlaylist
+add	O	O
+magnifico	B-	artist
+to	O	O
+michele's	B-	playlist_owner
+playlist	O	O
+called	O	O
+88	B-	playlist
+keys	I-	playlist
+.	O	O
+
+BookRestaurant
+book	O	O
+for	O	O
+3	B-	party_size_number
+in	O	O
+u.s.	B-	country
+virgin	I-	country
+islands	I-	country
+
+BookRestaurant
+make	O	O
+me	O	O
+a	O	O
+reservation	O	O
+at	O	O
+a	O	O
+delicatessen	B-	restaurant_type
+that	O	O
+serves	O	O
+tofy	B-	served_dish
+for	O	O
+a	O	O
+party	O	O
+of	O	O
+four	B-	party_size_number
+in	O	O
+az	B-	state
+
+BookRestaurant
+anything	B-	restaurant_name
+close	B-	spatial_relation
+to	O	O
+smith-9th	B-	poi
+st	I-	poi
+that	O	O
+can	O	O
+seat	O	O
+two	B-	party_size_number
+people	O	O
+about	O	O
+one	B-	timeRange
+minute	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+?	O	O
+
+BookRestaurant
+book	O	O
+a	O	O
+table	O	O
+at	O	O
+jacob	B-	restaurant_name
+wirth	I-	restaurant_name
+restaurant	I-	restaurant_name
+for	O	O
+8	B-	party_size_number
+
+BookRestaurant
+find	O	O
+a	O	O
+reservation	O	O
+for	O	O
+a	O	O
+tavern	B-	restaurant_type
+that	O	O
+serves	O	O
+pizzas	B-	served_dish
+for	O	O
+a	O	O
+party	O	O
+of	O	O
+6	B-	party_size_number
+
+BookRestaurant
+book	O	O
+a	O	O
+boon	B-	restaurant_name
+brick	I-	restaurant_name
+store	I-	restaurant_name
+for	O	O
+my	B-	party_size_description
+grandkid	I-	party_size_description
+and	I-	party_size_description
+i	I-	party_size_description
+at	O	O
+evans	B-	city
+mills	I-	city
+
+BookRestaurant
+i	O	O
+need	O	O
+a	O	O
+table	O	O
+for	O	O
+10	B-	party_size_number
+at	O	O
+thomas	B-	restaurant_name
+hynes	I-	restaurant_name
+house	I-	restaurant_name
+nineteen	B-	timeRange
+minutes	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+
+BookRestaurant
+book	O	O
+now	B-	timeRange
+at	O	O
+a	O	O
+bakery	B-	restaurant_type
+at	O	O
+a	O	O
+spa	B-	facility
+
+BookRestaurant
+book	O	O
+an	O	O
+osteria	B-	restaurant_type
+that	O	O
+serves	O	O
+blini	B-	served_dish
+for	O	O
+9	B-	party_size_number
+people.	O	O
+
+BookRestaurant
+find	O	O
+a	O	O
+table	O	O
+for	O	O
+one	B-	party_size_number
+at	O	O
+a	O	O
+popular	B-	sort
+churrascaria	B-	restaurant_type
+for	O	O
+three	B-	timeRange
+weeks	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+
+BookRestaurant
+find	O	O
+a	O	O
+reservation	O	O
+for	O	O
+three	B-	party_size_number
+at	O	O
+a	O	O
+top-rated	B-	sort
+restaurant	B-	restaurant_type
+
+BookRestaurant
+i	O	O
+want	O	O
+to	O	O
+book	O	O
+a	O	O
+restaurant	B-	restaurant_type
+
+BookRestaurant
+find	O	O
+a	O	O
+restaurant	B-	restaurant_type
+in	O	O
+fm	B-	state
+that	O	O
+servec	O	O
+quiche	B-	served_dish
+
+BookRestaurant
+i'd	O	O
+like	O	O
+to	O	O
+go	O	O
+to	O	O
+a	O	O
+pizzeria	B-	restaurant_type
+within	B-	spatial_relation
+walking	I-	spatial_relation
+distance	I-	spatial_relation
+of	O	O
+hutchinson	B-	city
+
+BookRestaurant
+i'd	O	O
+like	O	O
+to	O	O
+eat	O	O
+at	O	O
+the	O	O
+oyster	B-	restaurant_type
+bar	I-	restaurant_type
+for	O	O
+a	O	O
+party	O	O
+of	O	O
+one	B-	party_size_number
+that	O	O
+has	O	O
+internet	B-	facility
+
+BookRestaurant
+i	O	O
+need	O	O
+to	O	O
+make	O	O
+a	O	O
+reservation	O	O
+at	O	O
+a	O	O
+top-rated	B-	sort
+moroccan	B-	cuisine
+restaurant	B-	restaurant_type
+in	O	O
+bone	B-	city
+that	O	O
+is	O	O
+nearby	B-	spatial_relation
+and	O	O
+can	O	O
+seat	O	O
+8	B-	party_size_number
+
+BookRestaurant
+need	O	O
+a	O	O
+restaurant	B-	restaurant_type
+booking	O	O
+for	O	O
+next	B-	timeRange
+week	I-	timeRange
+for	O	O
+a	O	O
+party	O	O
+of	O	O
+6	B-	party_size_number
+in	O	O
+the	O	O
+state	O	O
+of	O	O
+or	B-	state
+
+BookRestaurant
+book	O	O
+a	O	O
+restaurant	B-	restaurant_type
+for	O	O
+seven	B-	party_size_number
+on	O	O
+last	B-	timeRange
+december	I-	timeRange
+in	O	O
+kentucky	B-	state
+
+BookRestaurant
+book	O	O
+a	O	O
+restaurant	B-	restaurant_type
+in	O	O
+satanta	B-	city
+that	O	O
+has	O	O
+highly	B-	sort
+rated	I-	sort
+northeastern	B-	cuisine
+for	O	O
+10	B-	party_size_number
+
+BookRestaurant
+i	O	O
+need	O	O
+to	O	O
+book	O	O
+a	O	O
+restaurant	B-	restaurant_type
+that	O	O
+serves	O	O
+sundanese	B-	cuisine
+in	O	O
+bonaire	B-	country
+for	O	O
+7	B-	party_size_number
+
+BookRestaurant
+book	O	O
+reservations	O	O
+not	B-	spatial_relation
+far	I-	spatial_relation
+from	O	O
+our	O	O
+neighborhood	B-	poi
+for	O	O
+a	O	O
+party	O	O
+of	O	O
+2	B-	party_size_number
+
+BookRestaurant
+i'd	O	O
+like	O	O
+a	O	O
+table	O	O
+for	O	O
+two	B-	party_size_number
+at	O	O
+a	O	O
+place	O	O
+in	O	O
+west	B-	city
+whittier	I-	city
+nevada	B-	state
+on	O	O
+indigenous	B-	timeRange
+people's	I-	timeRange
+day	I-	timeRange
+
+BookRestaurant
+book	O	O
+a	O	O
+spot	O	O
+for	O	O
+tommie	B-	party_size_description
+and	I-	party_size_description
+vera	I-	party_size_description
+rogers	I-	party_size_description
+in	O	O
+irvine	B-	city
+at	O	O
+7	B-	timeRange
+am	I-	timeRange
+
+BookRestaurant
+make	O	O
+a	O	O
+reservation	O	O
+for	O	O
+8	B-	party_size_number
+at	O	O
+a	O	O
+diner	B-	restaurant_type
+that	O	O
+serves	O	O
+haystack	B-	served_dish
+
+BookRestaurant
+book	O	O
+a	O	O
+table	O	O
+in	O	O
+fairview	B-	poi
+neighboring	B-	spatial_relation
+the	O	O
+area	B-	spatial_relation
+
+BookRestaurant
+in	B-	timeRange
+eight	I-	timeRange
+seconds	I-	timeRange
+,	O	O
+i'd	O	O
+like	O	O
+reservations	O	O
+at	O	O
+a	O	O
+food	B-	restaurant_type
+court	I-	restaurant_type
+that	O	O
+serves	O	O
+sardinian	B-	cuisine
+food	O	O
+in	O	O
+pidcoke	B-	city
+.	O	O
+
+BookRestaurant
+book	O	O
+a	O	O
+table	O	O
+at	O	O
+a	O	O
+pool	B-	facility
+bar	B-	restaurant_type
+
+BookRestaurant
+book	O	O
+me	O	O
+a	O	O
+restaurant	B-	restaurant_type
+reservation	O	O
+in	O	O
+madagascar	B-	country
+
+BookRestaurant
+book	O	O
+me	O	O
+a	O	O
+table	O	O
+at	O	O
+a	O	O
+bistro	B-	restaurant_type
+that	O	O
+serves	O	O
+maple	B-	served_dish
+syrup	I-	served_dish
+for	O	O
+a	O	O
+party	O	O
+of	O	O
+10	B-	party_size_number
+
+BookRestaurant
+book	O	O
+at	O	O
+the	B-	restaurant_name
+halal	I-	restaurant_name
+guys	I-	restaurant_name
+on	O	O
+oct.	B-	timeRange
+17	I-	timeRange
+
+BookRestaurant
+in	O	O
+delanson	B-	city
+1	B-	timeRange
+hour	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+reserve	O	O
+a	O	O
+table	O	O
+for	O	O
+four	B-	party_size_number
+
+BookRestaurant
+book	O	O
+a	O	O
+table	O	O
+at	O	O
+the	O	O
+eighth	B-	restaurant_name
+step	I-	restaurant_name
+coffee	I-	restaurant_name
+house	I-	restaurant_name
+that	O	O
+isn't	O	O
+too	O	O
+far	B-	spatial_relation
+from	O	O
+vineyard	B-	city
+haven	I-	city
+for	O	O
+candace	B-	party_size_description
+phillips,	I-	party_size_description
+debbie	I-	party_size_description
+and	I-	party_size_description
+sondra	I-	party_size_description
+
+BookRestaurant
+book	O	O
+a	O	O
+spot	O	O
+at	O	O
+a	O	O
+restaurant	B-	restaurant_type
+with	O	O
+trattoria	B-	cuisine
+in	O	O
+otho	B-	city
+de	B-	state
+
+BookRestaurant
+book	O	O
+the	O	O
+light	B-	restaurant_name
+horse	I-	restaurant_name
+tavern	I-	restaurant_name
+for	O	O
+4	B-	party_size_number
+people.	O	O
+
+BookRestaurant
+stacy	B-	party_size_description
+watson	I-	party_size_description
+and	I-	party_size_description
+adriana	I-	party_size_description
+want	O	O
+to	O	O
+go	O	O
+to	O	O
+the	O	O
+best	B-	sort
+osteria	B-	restaurant_type
+in	O	O
+hallowell	B-	city
+minnesota	B-	state
+this	O	O
+afternoon	B-	timeRange
+
+BookRestaurant
+book	O	O
+near	B-	spatial_relation
+montana	B-	state
+restaurant	B-	restaurant_type
+serving	O	O
+sri	B-	cuisine
+lankan	I-	cuisine
+food	O	O
+for	O	O
+6	B-	party_size_number
+that	O	O
+is	O	O
+highly	B-	sort
+rated	I-	sort
+on	O	O
+tues.	B-	timeRange
+
+BookRestaurant
+book	O	O
+north	B-	cuisine
+indian	I-	cuisine
+osteria	B-	restaurant_type
+at	O	O
+12	B-	timeRange
+am	I-	timeRange
+
+BookRestaurant
+book	O	O
+a	O	O
+table	O	O
+today	B-	timeRange
+at	O	O
+a	O	O
+steakhouse	B-	restaurant_type
+for	O	O
+eight	B-	party_size_number
+that	O	O
+serves	O	O
+sashimi	B-	served_dish
+
+BookRestaurant
+i'd	O	O
+like	O	O
+to	O	O
+eat	O	O
+in	O	O
+iran	B-	country
+with	O	O
+a	O	O
+party	O	O
+of	O	O
+9	B-	party_size_number
+on	O	O
+sep.	B-	timeRange
+the	I-	timeRange
+12th	I-	timeRange
+
+BookRestaurant
+book	O	O
+a	O	O
+reservation	O	O
+for	O	O
+1	B-	party_size_number
+on	O	O
+march	B-	timeRange
+17	I-	timeRange
+
+BookRestaurant
+book	O	O
+a	O	O
+spot	O	O
+for	O	O
+elise	B-	party_size_description
+and	I-	party_size_description
+alma	I-	party_size_description
+at	O	O
+a	O	O
+brasserie	B-	restaurant_type
+in	O	O
+ravensdale	B-	city
+mh	B-	state
+for	O	O
+this	B-	timeRange
+week	I-	timeRange
+
+BookRestaurant
+i'd	O	O
+like	O	O
+to	O	O
+eat	O	O
+at	O	O
+a	O	O
+taverna	B-	restaurant_type
+that	O	O
+serves	O	O
+chili	B-	served_dish
+con	I-	served_dish
+carne	I-	served_dish
+for	O	O
+a	O	O
+party	O	O
+of	O	O
+10	B-	party_size_number
+
+BookRestaurant
+can	O	O
+you	O	O
+book	O	O
+reservations	O	O
+for	O	O
+jeanne	B-	party_size_description
+and	I-	party_size_description
+charlotte	I-	party_size_description
+at	O	O
+a	O	O
+diner	B-	restaurant_type
+in	O	O
+mayotte	B-	country
+
+BookRestaurant
+i	O	O
+want	O	O
+to	O	O
+book	O	O
+a	O	O
+food	B-	restaurant_type
+court	I-	restaurant_type
+for	O	O
+5	B-	party_size_number
+at	O	O
+1	B-	timeRange
+am	I-	timeRange
+
+BookRestaurant
+i	O	O
+need	O	O
+a	O	O
+table	O	O
+at	O	O
+a	O	O
+restaurant	B-	restaurant_type
+that	O	O
+serves	O	O
+toast	B-	served_dish
+eleven	B-	timeRange
+months	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+
+BookRestaurant
+call	O	O
+for	O	O
+a	O	O
+table	O	O
+of	O	O
+3	B-	party_size_number
+at	O	O
+the	O	O
+tavern	B-	restaurant_name
+on	I-	restaurant_name
+the	I-	restaurant_name
+green	I-	restaurant_name
+in	O	O
+south	B-	city
+farmingdale	I-	city
+
+BookRestaurant
+book	O	O
+a	O	O
+cafe	B-	restaurant_type
+for	O	O
+one	B-	party_size_number
+in	O	O
+the	O	O
+cocos	B-	country
+islands	I-	country
+
+BookRestaurant
+book	O	O
+a	O	O
+restaurant	B-	restaurant_type
+at	O	O
+sixteen	B-	timeRange
+o'clock	I-	timeRange
+in	O	O
+sc	B-	state
+
+BookRestaurant
+book	O	O
+me	O	O
+a	O	O
+restaurant	B-	restaurant_type
+in	O	O
+cyprus	B-	country
+at	O	O
+a	O	O
+pub	B-	restaurant_type
+
+BookRestaurant
+book	O	O
+me	O	O
+a	O	O
+lunch	B-	timeRange
+at	O	O
+boreas	B-	restaurant_name
+for	O	O
+a	O	O
+party	O	O
+of	O	O
+8	B-	party_size_number
+
+BookRestaurant
+book	O	O
+now	B-	timeRange
+in	O	O
+ky	B-	state
+at	O	O
+loveless	B-	restaurant_name
+cafe	I-	restaurant_name
+
+BookRestaurant
+i'd	O	O
+like	O	O
+to	O	O
+book	O	O
+the	O	O
+best	B-	sort
+restaurant	B-	restaurant_type
+in	O	O
+as	B-	state
+.	O	O
+
+BookRestaurant
+book	O	O
+a	O	O
+table	O	O
+for	O	O
+10	B-	party_size_number
+at	O	O
+the	O	O
+dunbrody	B-	restaurant_name
+country	I-	restaurant_name
+house	I-	restaurant_name
+hotel	I-	restaurant_name
+in	O	O
+serbia	B-	country
+
+BookRestaurant
+book	O	O
+australian	B-	cuisine
+food	O	O
+in	O	O
+armour	B-	city
+for	O	O
+7	B-	timeRange
+pm	I-	timeRange
+for	O	O
+four	B-	party_size_number
+at	O	O
+a	O	O
+pub	B-	restaurant_type
+best	B-	sort
+rated	I-	sort
+in	O	O
+ut	B-	state
+
+BookRestaurant
+find	O	O
+a	O	O
+table	O	O
+for	O	O
+7	B-	party_size_number
+at	O	O
+a	O	O
+joint	B-	restaurant_type
+in	O	O
+ok	B-	state
+that's	O	O
+far	B-	spatial_relation
+from	O	O
+here	O	O
+
+BookRestaurant
+i	O	O
+want	O	O
+a	O	O
+table	O	O
+for	O	O
+four	B-	party_size_number
+at	O	O
+a	O	O
+place	O	O
+in	O	O
+california	B-	state
+
+BookRestaurant
+book	O	O
+a	O	O
+spot	O	O
+at	O	O
+savoy	B-	restaurant_name
+hotel	I-	restaurant_name
+and	I-	restaurant_name
+grill	I-	restaurant_name
+that	O	O
+is	O	O
+neighboring	B-	spatial_relation
+wisconsin	B-	state
+
+BookRestaurant
+book	O	O
+a	O	O
+table	O	O
+for	O	O
+iris,	B-	party_size_description
+ina	I-	party_size_description
+and	I-	party_size_description
+heidi	I-	party_size_description
+around	O	O
+9	B-	timeRange
+pm	I-	timeRange
+.	O	O
+
+BookRestaurant
+need	O	O
+a	O	O
+table	O	O
+at	O	O
+the	B-	restaurant_name
+goof	I-	restaurant_name
+in	O	O
+croatia	B-	country
+for	O	O
+a	O	O
+party	O	O
+of	O	O
+three	B-	party_size_number
+
+BookRestaurant
+book	O	O
+a	O	O
+restaurant	B-	restaurant_type
+with	O	O
+internet	B-	facility
+in	O	O
+ny	B-	state
+for	O	O
+four	B-	party_size_number
+people.	O	O
+
+BookRestaurant
+i	O	O
+need	O	O
+to	O	O
+book	O	O
+a	O	O
+table	O	O
+at	O	O
+a	O	O
+food	B-	restaurant_type
+court	I-	restaurant_type
+in	O	O
+nh	B-	state
+that	O	O
+serves	O	O
+smelt	B-	served_dish
+
+BookRestaurant
+book	O	O
+a	O	O
+top-rated	B-	sort
+osteria	B-	restaurant_type
+seven	B-	timeRange
+weeks	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+
+BookRestaurant
+make	O	O
+reservations	O	O
+for	O	O
+7	B-	party_size_number
+people	O	O
+at	O	O
+a	O	O
+top-rated	B-	sort
+brazilian	B-	cuisine
+pub	B-	restaurant_type
+around	B-	spatial_relation
+rockaway	B-	poi
+park-beach	I-	poi
+116th	I-	poi
+
+BookRestaurant
+book	O	O
+a	O	O
+restaurant	B-	restaurant_type
+for	O	O
+7	B-	party_size_number
+in	O	O
+mn	B-	state
+
+BookRestaurant
+book	O	O
+a	O	O
+restaurant	B-	restaurant_type
+that	O	O
+serves	O	O
+agnolotti	B-	served_dish
+in	O	O
+colorado	B-	city
+city	I-	city
+idaho	B-	state
+.	O	O
+
+BookRestaurant
+book	O	O
+in	O	O
+southern	B-	city
+shores	I-	city
+for	O	O
+8	B-	party_size_number
+at	O	O
+ariston	B-	restaurant_name
+cafe	I-	restaurant_name
+
+BookRestaurant
+book	O	O
+the	O	O
+tea	B-	restaurant_type
+house	I-	restaurant_type
+on	O	O
+north	B-	city
+river	I-	city
+
+BookRestaurant
+i	O	O
+need	O	O
+to	O	O
+book	O	O
+a	O	O
+popular	B-	sort
+pastelaria	B-	cuisine
+restaurant	B-	restaurant_type
+in	O	O
+svalbard	B-	country
+and	I-	country
+jan	I-	country
+mayen	I-	country
+for	O	O
+a	O	O
+party	O	O
+of	O	O
+eight	B-	party_size_number
+
+BookRestaurant
+book	O	O
+a	O	O
+table	O	O
+for	O	O
+2	B-	party_size_number
+at	O	O
+a	O	O
+fm	B-	state
+restaurant	B-	restaurant_type
+serving	O	O
+grits	B-	served_dish
+for	O	O
+the	O	O
+next	O	O
+meal	B-	timeRange
+.	O	O
+
+BookRestaurant
+find	O	O
+me	O	O
+a	O	O
+table	O	O
+for	O	O
+8	B-	party_size_number
+somewhee	O	O
+in	O	O
+hollenberg	B-	city
+in	B-	timeRange
+nine	I-	timeRange
+weeks	I-	timeRange
+
+BookRestaurant
+book	O	O
+a	O	O
+reservation	O	O
+for	O	O
+my	B-	party_size_description
+great	I-	party_size_description
+grandfather	I-	party_size_description
+and	I-	party_size_description
+i	I-	party_size_description
+at	O	O
+a	O	O
+macaroni	B-	served_dish
+pub	B-	restaurant_type
+in	O	O
+ct	B-	state
+
+BookRestaurant
+i'm	O	O
+looking	O	O
+to	O	O
+bring	O	O
+shawn,	B-	party_size_description
+marguerite	I-	party_size_description
+and	I-	party_size_description
+della	I-	party_size_description
+to	O	O
+a	O	O
+place	O	O
+to	O	O
+eat	O	O
+at	O	O
+near	B-	spatial_relation
+rwanda	B-	country
+.	O	O
+
+BookRestaurant
+book	O	O
+a	O	O
+table	O	O
+for	O	O
+two	B-	party_size_number
+for	O	O
+this	B-	timeRange
+autumn	I-	timeRange
+
+BookRestaurant
+book	O	O
+a	O	O
+spot	O	O
+for	O	O
+8	B-	party_size_number
+at	O	O
+a	O	O
+tavern	B-	restaurant_type
+on	O	O
+jun.	B-	timeRange
+the	I-	timeRange
+11th,	I-	timeRange
+2034	I-	timeRange
+
+BookRestaurant
+me	B-	party_size_description
+and	I-	party_size_description
+robin	I-	party_size_description
+need	O	O
+reservations	O	O
+for	O	O
+somewhere	O	O
+in	O	O
+palau	B-	state
+
+BookRestaurant
+book	O	O
+a	O	O
+restaurant	B-	restaurant_type
+for	O	O
+one	B-	party_size_number
+in	O	O
+skillman	B-	city
+
+BookRestaurant
+book	O	O
+a	O	O
+restaurant	B-	restaurant_type
+for	O	O
+me	B-	party_size_description
+and	I-	party_size_description
+rosemary	I-	party_size_description
+at	O	O
+1	B-	timeRange
+am	I-	timeRange
+
+BookRestaurant
+book	O	O
+me	O	O
+a	O	O
+restaurant	B-	restaurant_type
+for	O	O
+nine	B-	party_size_number
+in	O	O
+statham	B-	city
+
+BookRestaurant
+i	O	O
+need	O	O
+a	O	O
+table	O	O
+in	O	O
+west	B-	state
+virginia	I-	state
+for	O	O
+me	B-	party_size_description
+and	I-	party_size_description
+my	I-	party_size_description
+baby	I-	party_size_description
+at	O	O
+jacob	B-	restaurant_name
+wirth	I-	restaurant_name
+restaurant	I-	restaurant_name
+
+BookRestaurant
+i	O	O
+want	O	O
+to	O	O
+eat	O	O
+a	O	O
+a	O	O
+brasserie	B-	restaurant_type
+that	O	O
+serves	O	O
+muffuletta	B-	served_dish
+,	O	O
+where	O	O
+can	O	O
+i	O	O
+get	O	O
+a	O	O
+reservation?	O	O
+
+BookRestaurant
+book	O	O
+a	O	O
+table	O	O
+for	O	O
+8	B-	party_size_number
+right	O	O
+now	B-	timeRange
+for	O	O
+a	O	O
+restaurant	B-	restaurant_type
+in	O	O
+meadow	B-	city
+vale	I-	city
+
+BookRestaurant
+book	O	O
+a	O	O
+table	O	O
+for	O	O
+me	B-	party_size_description
+and	I-	party_size_description
+my	I-	party_size_description
+step	I-	party_size_description
+uncle	I-	party_size_description
+in	O	O
+malta	B-	country
+at	O	O
+a	O	O
+cafeteria	B-	restaurant_type
+
+BookRestaurant
+book	O	O
+a	O	O
+reservation	O	O
+for	O	O
+9	B-	party_size_number
+people	O	O
+at	O	O
+a	O	O
+roman	B-	cuisine
+pizzeria	B-	restaurant_type
+
+BookRestaurant
+i	O	O
+want	O	O
+to	O	O
+go	O	O
+to	O	O
+88th	B-	poi
+st-boyd	I-	poi
+av	I-	poi
+or	O	O
+close	B-	spatial_relation
+by	O	O
+and	O	O
+book	O	O
+seats	O	O
+for	O	O
+10	B-	party_size_number
+
+BookRestaurant
+lets	O	O
+get	O	O
+a	O	O
+table	O	O
+for	O	O
+10	B-	party_size_number
+at	O	O
+space	B-	restaurant_name
+aliens	I-	restaurant_name
+grill	I-	restaurant_name
+&	I-	restaurant_name
+bar	I-	restaurant_name
+
+BookRestaurant
+book	O	O
+a	O	O
+pub	B-	restaurant_type
+for	O	O
+two	B-	party_size_number
+on	O	O
+jan.	B-	timeRange
+first,	I-	timeRange
+2037	I-	timeRange
+.	O	O
+
+BookRestaurant
+book	O	O
+a	O	O
+restautant	O	O
+in	O	O
+north	B-	state
+dakota	I-	state
+at	O	O
+a	O	O
+bistro	B-	restaurant_type
+that	O	O
+is	O	O
+indoor	B-	facility
+
+BookRestaurant
+book	O	O
+a	O	O
+table	O	O
+for	O	O
+10	B-	party_size_number
+people	O	O
+at	O	O
+a	O	O
+restaurant	B-	restaurant_type
+which	O	O
+offers	O	O
+internet	B-	facility
+.	O	O
+
+BookRestaurant
+i	O	O
+need	O	O
+a	O	O
+reservation	O	O
+for	O	O
+6	B-	timeRange
+pm.	I-	timeRange
+with	O	O
+a	O	O
+party	O	O
+of	O	O
+10	B-	party_size_number
+at	O	O
+sand	B-	city
+lake	I-	city
+
+BookRestaurant
+i	O	O
+need	O	O
+to	O	O
+book	O	O
+a	O	O
+restaurant	B-	restaurant_type
+at	O	O
+four	B-	timeRange
+o'clock	I-	timeRange
+for	O	O
+4	B-	party_size_number
+
+BookRestaurant
+i	O	O
+need	O	O
+a	O	O
+table	O	O
+for	O	O
+4	B-	party_size_number
+at	O	O
+a	O	O
+restaurant	B-	restaurant_type
+around	O	O
+0	B-	timeRange
+am	I-	timeRange
+.	O	O
+
+BookRestaurant
+i'd	O	O
+like	O	O
+a	O	O
+table	O	O
+at	O	O
+the	O	O
+san	B-	restaurant_name
+francisco	I-	restaurant_name
+brewing	I-	restaurant_name
+company	I-	restaurant_name
+in	O	O
+puerto	B-	state
+rico	I-	state
+at	O	O
+noon	B-	timeRange
+
+BookRestaurant
+me	B-	party_size_description
+and	I-	party_size_description
+imelda	I-	party_size_description
+want	O	O
+a	O	O
+reservation	O	O
+in	O	O
+missouri	B-	state
+at	O	O
+seven	B-	timeRange
+am	I-	timeRange
+
+BookRestaurant
+i	O	O
+need	O	O
+a	O	O
+reservation	O	O
+for	O	O
+3	B-	timeRange
+hours	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+with	O	O
+a	O	O
+party	O	O
+of	O	O
+nine	B-	party_size_number
+in	O	O
+neighboring	B-	spatial_relation
+sweden	B-	country
+
+BookRestaurant
+i	O	O
+want	O	O
+to	O	O
+book	O	O
+a	O	O
+highly	B-	sort
+rated	I-	sort
+fast	B-	restaurant_type
+food	I-	restaurant_type
+restaurant	I-	restaurant_type
+now	B-	timeRange
+.	O	O
+
+BookRestaurant
+table	O	O
+for	O	O
+6	B-	party_size_number
+at	O	O
+a	O	O
+brasserie	B-	restaurant_type
+
+BookRestaurant
+this	B-	timeRange
+winter	I-	timeRange
+,	O	O
+meredith,	B-	party_size_description
+betty	I-	party_size_description
+and	I-	party_size_description
+erika	I-	party_size_description
+want	O	O
+to	O	O
+food	O	O
+at	O	O
+a	O	O
+gastropub	B-	restaurant_type
+that	O	O
+is	O	O
+in	B-	spatial_relation
+the	I-	spatial_relation
+same	I-	spatial_relation
+area	I-	spatial_relation
+as	O	O
+fran's	B-	poi
+location	I-	poi
+.	O	O
+
+BookRestaurant
+book	O	O
+a	O	O
+southeastern	B-	cuisine
+brazilian	I-	cuisine
+cusinie	O	O
+pub	B-	restaurant_type
+
+BookRestaurant
+book	O	O
+in	O	O
+ri	B-	state
+for	O	O
+one	B-	party_size_number
+in	O	O
+wabuska	B-	city
+
+BookRestaurant
+book	O	O
+a	O	O
+reservation	O	O
+for	O	O
+7	B-	party_size_number
+people	O	O
+at	O	O
+the	B-	restaurant_name
+french	I-	restaurant_name
+laundry	I-	restaurant_name
+on	O	O
+june	B-	timeRange
+the	I-	timeRange
+8th,	I-	timeRange
+2029	I-	timeRange
+
+GetWeather
+please	O	O
+tell	O	O
+me	O	O
+the	O	O
+forecast	O	O
+for	O	O
+guinea-bissau	B-	country
+
+GetWeather
+what's	O	O
+the	O	O
+weather	O	O
+forecast	O	O
+for	O	O
+winnfield	B-	city
+,	O	O
+georgia	B-	state
+?	O	O
+
+GetWeather
+will	O	O
+the	O	O
+wind	B-	condition_description
+die	O	O
+down	O	O
+at	O	O
+my	O	O
+current	B-	current_location
+location	I-	current_location
+by	O	O
+supper	B-	timeRange
+time?	O	O
+
+GetWeather
+what	O	O
+will	O	O
+the	O	O
+weather	O	O
+be	O	O
+like	O	O
+in	O	O
+arizona	B-	state
+on	O	O
+october	B-	timeRange
+the	I-	timeRange
+3rd	I-	timeRange
+
+GetWeather
+on	O	O
+may	B-	timeRange
+the	I-	timeRange
+thirteenth,	I-	timeRange
+2037	I-	timeRange
+what	O	O
+will	O	O
+it	O	O
+be	O	O
+like	O	O
+in	O	O
+wilderville	B-	city
+,	O	O
+montenegro	B-	country
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+weather	O	O
+forecast	O	O
+for	O	O
+cuba	B-	country
+at	O	O
+eleven	B-	timeRange
+am	I-	timeRange
+
+GetWeather
+show	O	O
+fog	B-	condition_description
+conditions	O	O
+at	O	O
+7	B-	timeRange
+am	I-	timeRange
+in	O	O
+nh	B-	state
+
+GetWeather
+is	O	O
+it	O	O
+going	O	O
+to	O	O
+be	O	O
+colder	B-	condition_temperature
+in	O	O
+botswana	B-	country
+by	O	O
+09	B-	timeRange
+
+GetWeather
+what's	O	O
+the	O	O
+weather	O	O
+going	O	O
+to	O	O
+be	O	O
+like	O	O
+this	B-	timeRange
+autumn	I-	timeRange
+in	O	O
+ca	B-	state
+?	O	O
+
+GetWeather
+what	O	O
+will	O	O
+the	O	O
+weather	O	O
+be	O	O
+like	O	O
+on	O	O
+january	B-	timeRange
+2nd,	I-	timeRange
+2025	I-	timeRange
+in	O	O
+ga	B-	state
+
+GetWeather
+tell	O	O
+me	O	O
+the	O	O
+weather	O	O
+forecast	O	O
+for	O	O
+here	B-	current_location
+in	B-	timeRange
+seven	I-	timeRange
+years	I-	timeRange
+
+GetWeather
+is	O	O
+it	O	O
+chilly	B-	condition_temperature
+on	O	O
+oct.	B-	timeRange
+19th	I-	timeRange
+in	O	O
+il	B-	state
+
+GetWeather
+will	O	O
+it	O	O
+feel	O	O
+nice	O	O
+here	B-	current_location
+or	O	O
+within	B-	spatial_relation
+the	I-	spatial_relation
+same	I-	spatial_relation
+area	I-	spatial_relation
+
+GetWeather
+what	O	O
+will	O	O
+the	O	O
+weather	O	O
+be	O	O
+like	O	O
+in	B-	timeRange
+three	I-	timeRange
+weeks	I-	timeRange
+faraway	B-	spatial_relation
+in	O	O
+sompio	B-	geographic_poi
+strict	I-	geographic_poi
+nature	I-	geographic_poi
+reserve	I-	geographic_poi
+
+GetWeather
+will	O	O
+it	O	O
+be	O	O
+cloudy	B-	condition_description
+in	O	O
+guadeloupe	B-	country
+next	B-	timeRange
+year	I-	timeRange
+
+GetWeather
+will	O	O
+it	O	O
+rain	B-	condition_description
+today	B-	timeRange
+in	O	O
+french	B-	country
+southern	I-	country
+territories	I-	country
+of	O	O
+highland	B-	city
+beach	I-	city
+
+GetWeather
+what	O	O
+will	O	O
+the	O	O
+weather	O	O
+be	O	O
+like	O	O
+in	O	O
+the	O	O
+bahamas	B-	country
+eleven	B-	timeRange
+years	I-	timeRange
+and	I-	timeRange
+a	I-	timeRange
+half	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+
+GetWeather
+is	O	O
+it	O	O
+going	O	O
+to	O	O
+be	O	O
+cold	B-	condition_temperature
+at	O	O
+4	B-	timeRange
+o'clock	I-	timeRange
+far	B-	spatial_relation
+from	O	O
+here	B-	current_location
+?	O	O
+
+GetWeather
+what's	O	O
+the	O	O
+weather	O	O
+forecast	O	O
+for	O	O
+saint	B-	country
+pierre	I-	country
+and	I-	country
+miquelon	I-	country
+?	O	O
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+foggy	B-	condition_description
+forecast	O	O
+for	O	O
+nov.	B-	timeRange
+15	I-	timeRange
+in	O	O
+france	B-	country
+in	O	O
+brookland	B-	city
+terrace	I-	city
+
+GetWeather
+is	O	O
+it	O	O
+warm	B-	condition_temperature
+in	O	O
+sierra	B-	city
+blanca	I-	city
+now	B-	timeRange
+
+GetWeather
+will	O	O
+it	O	O
+be	O	O
+stormy	B-	condition_description
+in	O	O
+saint	B-	country
+pierre	I-	country
+and	I-	country
+miquelon	I-	country
+in	O	O
+the	O	O
+city	O	O
+of	O	O
+wenham	B-	city
+
+GetWeather
+in	O	O
+khlong	B-	geographic_poi
+phraya	I-	geographic_poi
+wildlife	I-	geographic_poi
+sanctuary	I-	geographic_poi
+is	O	O
+there	O	O
+a	O	O
+cloud	B-	condition_description
+
+GetWeather
+show	O	O
+weather	O	O
+forecast	O	O
+nearby	B-	spatial_relation
+elk	B-	geographic_poi
+city	I-	geographic_poi
+state	I-	geographic_poi
+park	I-	geographic_poi
+
+GetWeather
+what's	O	O
+the	O	O
+temperature	O	O
+today	B-	timeRange
+in	O	O
+griffin	B-	city
+,	O	O
+ne	B-	state
+?	O	O
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+forecast	O	O
+for	O	O
+8/26/2022	B-	timeRange
+in	O	O
+vermont	B-	state
+
+GetWeather
+will	O	O
+it	O	O
+get	O	O
+chillier	B-	condition_temperature
+in	O	O
+sinclair	B-	city
+in	B-	timeRange
+8	I-	timeRange
+hours	I-	timeRange
+
+GetWeather
+will	O	O
+there	O	O
+be	O	O
+rain	B-	condition_description
+today	B-	timeRange
+in	O	O
+greece	B-	country
+
+GetWeather
+will	O	O
+it	O	O
+be	O	O
+sunny	B-	condition_description
+on	O	O
+june	B-	timeRange
+1,	I-	timeRange
+2021	I-	timeRange
+in	O	O
+bathgate	B-	city
+
+GetWeather
+i	O	O
+want	O	O
+to	O	O
+book	O	O
+a	O	O
+restaurant	O	O
+in	O	O
+neshanic	B-	city
+station	I-	city
+nigeria	B-	country
+for	O	O
+06	B-	timeRange
+pm	I-	timeRange
+
+GetWeather
+what	O	O
+will	O	O
+the	O	O
+weather	O	O
+be	O	O
+like	O	O
+at	O	O
+ten	B-	timeRange
+am	I-	timeRange
+in	O	O
+austria	B-	country
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+weather	O	O
+in	O	O
+the	O	O
+netherlands	B-	country
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+weather	O	O
+for	O	O
+cormorant	B-	city
+,	O	O
+me	B-	state
+
+GetWeather
+tell	O	O
+me	O	O
+whether	O	O
+bahrain	B-	country
+will	O	O
+be	O	O
+humid	B-	condition_description
+in	B-	timeRange
+one	I-	timeRange
+hour	I-	timeRange
+and	I-	timeRange
+2	I-	timeRange
+minutes	I-	timeRange
+
+GetWeather
+will	O	O
+it	O	O
+colder	B-	condition_temperature
+here	B-	current_location
+on	O	O
+11/18/2018	B-	timeRange
+
+GetWeather
+what	O	O
+weather	O	O
+is	O	O
+predicted	O	O
+for	O	O
+loyalhanna	B-	city
+?	O	O
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+pw	B-	state
+forecast	O	O
+for	O	O
+stormy	B-	condition_description
+weather	O	O
+
+GetWeather
+i	O	O
+need	O	O
+to	O	O
+know	O	O
+the	O	O
+weather	O	O
+for	O	O
+san	B-	city
+martin	I-	city
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+forecast	O	O
+for	O	O
+petersville	B-	city
+,	O	O
+oh	B-	state
+
+GetWeather
+tell	O	O
+me	O	O
+if	O	O
+it'll	O	O
+be	O	O
+colder	B-	condition_temperature
+in	O	O
+steptoe	B-	geographic_poi
+battlefield	I-	geographic_poi
+state	I-	geographic_poi
+park	I-	geographic_poi
+in	B-	timeRange
+one	I-	timeRange
+minute	I-	timeRange
+
+GetWeather
+is	O	O
+it	O	O
+supposed	O	O
+to	O	O
+rain	B-	condition_description
+nearby	B-	spatial_relation
+my	O	O
+current	B-	current_location
+location	I-	current_location
+at	O	O
+0	B-	timeRange
+o'clock	I-	timeRange
+?	O	O
+
+GetWeather
+can	O	O
+you	O	O
+give	O	O
+me	O	O
+the	O	O
+weather	O	O
+for	O	O
+here	B-	current_location
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+forecast	O	O
+for	O	O
+hot	B-	condition_temperature
+temps	O	O
+in	O	O
+ocean	B-	city
+park	I-	city
+
+GetWeather
+she	O	O
+me	O	O
+the	O	O
+weather	O	O
+in	O	O
+the	O	O
+current	B-	current_location
+place	I-	current_location
+for	O	O
+nov.	B-	timeRange
+the	I-	timeRange
+9th	I-	timeRange
+
+GetWeather
+how	O	O
+chilly	B-	condition_temperature
+will	O	O
+it	O	O
+get	O	O
+here	B-	current_location
+?	O	O
+
+GetWeather
+will	O	O
+the	O	O
+sun	B-	condition_description
+come	O	O
+out	O	O
+here	B-	current_location
+
+GetWeather
+what	O	O
+will	O	O
+the	O	O
+weather	O	O
+be	O	O
+in	O	O
+angle	B-	city
+cape	B-	country
+verde	I-	country
+at	O	O
+midnight	B-	timeRange
+?	O	O
+
+GetWeather
+tell	O	O
+me	O	O
+if	O	O
+there's	O	O
+a	O	O
+snowstorm	B-	condition_description
+in	O	O
+the	O	O
+forecast	O	O
+twenty	B-	timeRange
+seconds	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+in	O	O
+holtville	B-	city
+
+GetWeather
+will	O	O
+there	O	O
+be	O	O
+sun	B-	condition_description
+ten	B-	timeRange
+minutes	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+in	O	O
+uintah	B-	city
+
+GetWeather
+weather	O	O
+1	B-	timeRange
+minute	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+in	O	O
+camden	B-	city
+point	I-	city
+zambia	B-	country
+
+GetWeather
+weather	O	O
+in	O	O
+tioga	B-	city
+colorado	B-	state
+
+GetWeather
+is	O	O
+it	O	O
+going	O	O
+to	O	O
+blizzard	B-	condition_description
+at	O	O
+my	O	O
+current	B-	current_location
+position	I-	current_location
+
+GetWeather
+will	O	O
+it	O	O
+be	O	O
+chilly	B-	condition_temperature
+around	B-	spatial_relation
+kingsley	B-	geographic_poi
+common	I-	geographic_poi
+on	O	O
+jan.	B-	timeRange
+9	I-	timeRange
+?	O	O
+
+GetWeather
+what's	O	O
+the	O	O
+weather	O	O
+like	O	O
+in	O	O
+calpella	B-	city
+
+GetWeather
+what's	O	O
+the	O	O
+weather	O	O
+close-by	B-	spatial_relation
+triumph	B-	city
+
+GetWeather
+is	O	O
+it	O	O
+going	O	O
+to	O	O
+be	O	O
+humid	B-	condition_description
+in	O	O
+helix	B-	city
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+weather	O	O
+forecast	O	O
+for	O	O
+yoakum	B-	city
+,	O	O
+sc	B-	state
+?	O	O
+
+GetWeather
+tell	O	O
+me	O	O
+when	O	O
+it	O	O
+will	O	O
+be	O	O
+hotter	B-	condition_temperature
+in	O	O
+china	B-	country
+
+GetWeather
+is	O	O
+it	O	O
+cold	B-	condition_temperature
+in	O	O
+windhorst	B-	city
+
+GetWeather
+will	O	O
+it	O	O
+be	O	O
+windy	B-	condition_description
+at	O	O
+4	B-	timeRange
+pm	I-	timeRange
+in	O	O
+ny	B-	state
+?	O	O
+
+GetWeather
+what	O	O
+will	O	O
+the	O	O
+weather	O	O
+be	O	O
+like	O	O
+here	B-	current_location
+next	B-	timeRange
+week	I-	timeRange
+?	O	O
+
+GetWeather
+weather	O	O
+for	O	O
+this	B-	timeRange
+winter	I-	timeRange
+here	B-	current_location
+
+GetWeather
+book	O	O
+a	O	O
+restaurant	O	O
+1	B-	timeRange
+hour	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+in	O	O
+dorchester	B-	geographic_poi
+shores	I-	geographic_poi
+reservation	I-	geographic_poi
+
+GetWeather
+what's	O	O
+the	O	O
+weather	O	O
+in	O	O
+mountain	B-	city
+center	I-	city
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+forecast	O	O
+for	O	O
+in	B-	timeRange
+eighteen	I-	timeRange
+minutes	I-	timeRange
+here	B-	current_location
+for	O	O
+colder	B-	condition_temperature
+temps	O	O
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+weather	O	O
+like	O	O
+in	O	O
+montchanin	B-	city
+,	O	O
+nv	B-	state
+
+GetWeather
+how's	O	O
+the	O	O
+forecast	O	O
+for	O	O
+chad	B-	country
+on	O	O
+september	B-	timeRange
+28,	I-	timeRange
+2034	I-	timeRange
+
+GetWeather
+is	O	O
+it	O	O
+cold	B-	condition_temperature
+now	B-	timeRange
+in	O	O
+carlos	B-	city
+,	O	O
+il	B-	state
+
+GetWeather
+how	O	O
+much	O	O
+hotter	B-	condition_temperature
+will	O	O
+it	O	O
+be	O	O
+40	B-	timeRange
+weeks	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+in	O	O
+blue	B-	city
+island	I-	city
+,	O	O
+north	B-	state
+dakota	I-	state
+?	O	O
+
+GetWeather
+will	O	O
+it	O	O
+be	O	O
+warmer	B-	condition_temperature
+1	B-	timeRange
+minute	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+at	O	O
+farmington	B-	geographic_poi
+canal	I-	geographic_poi
+state	I-	geographic_poi
+park	I-	geographic_poi
+trail	I-	geographic_poi
+
+GetWeather
+how	O	O
+will	O	O
+the	O	O
+weather	O	O
+be	O	O
+in	B-	timeRange
+six	I-	timeRange
+minutes	I-	timeRange
+close	B-	spatial_relation
+to	O	O
+moosic	B-	city
+
+GetWeather
+what's	O	O
+the	O	O
+forecase	O	O
+for	O	O
+inverness	B-	city
+on	O	O
+february	B-	timeRange
+5th,	I-	timeRange
+2031	I-	timeRange
+?	O	O
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+forecast	O	O
+for	O	O
+15	B-	timeRange
+in	O	O
+georgia	B-	state
+for	O	O
+overcast	B-	condition_description
+conditions	O	O
+in	O	O
+valley	B-	city
+view	I-	city
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+mississippi	B-	state
+for	O	O
+the	O	O
+week	B-	timeRange
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+predicted	O	O
+weather	O	O
+for	O	O
+my	O	O
+current	B-	current_location
+spot	I-	current_location
+next	B-	timeRange
+month	I-	timeRange
+?	O	O
+
+GetWeather
+weather	O	O
+in	B-	timeRange
+3	I-	timeRange
+minutes	I-	timeRange
+at	O	O
+jean	B-	geographic_poi
+lafitte	I-	geographic_poi
+national	I-	geographic_poi
+historical	I-	geographic_poi
+park	I-	geographic_poi
+and	I-	geographic_poi
+preserve	I-	geographic_poi
+
+GetWeather
+what's	O	O
+the	O	O
+forecast	O	O
+for	O	O
+pipe	B-	geographic_poi
+spring	I-	geographic_poi
+national	I-	geographic_poi
+monument	I-	geographic_poi
+?	O	O
+
+GetWeather
+whats	O	O
+the	O	O
+forecast	O	O
+for	O	O
+greece	B-	country
+
+GetWeather
+is	O	O
+it	O	O
+hotter	B-	condition_temperature
+here	B-	current_location
+on	O	O
+navy	B-	timeRange
+birthday	I-	timeRange
+
+GetWeather
+will	O	O
+it	O	O
+be	O	O
+rainy	B-	condition_description
+nine	B-	timeRange
+weeks	I-	timeRange
+from	I-	timeRange
+now	I-	timeRange
+close	B-	spatial_relation
+to	O	O
+the	O	O
+matlacha	B-	geographic_poi
+pass	I-	geographic_poi
+national	I-	geographic_poi
+wildlife	I-	geographic_poi
+refuge	I-	geographic_poi
+
+GetWeather
+what	O	O
+will	O	O
+the	O	O
+weather	O	O
+be	O	O
+in	O	O
+meeres-nationalpark	B-	geographic_poi
+insel	I-	geographic_poi
+bastimentos	I-	geographic_poi
+at	O	O
+twelve	B-	timeRange
+pm	I-	timeRange
+?	O	O
+
+GetWeather
+how	O	O
+cold	B-	condition_temperature
+is	O	O
+it	O	O
+in	O	O
+martinique	B-	country
+
+GetWeather
+will	O	O
+the	O	O
+weather	O	O
+be	O	O
+the	O	O
+same	B-	spatial_relation
+here	B-	current_location
+in	B-	timeRange
+one	I-	timeRange
+week	I-	timeRange
+in	B-	spatial_relation
+the	I-	spatial_relation
+same	I-	spatial_relation
+area	I-	spatial_relation
+
+GetWeather
+what	O	O
+will	O	O
+the	O	O
+weather	O	O
+be	O	O
+for	O	O
+hooksett	B-	city
+
+GetWeather
+show	O	O
+me	O	O
+the	O	O
+forecast	O	O
+for	O	O
+wisconsin	B-	state
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+forecast	O	O
+for	O	O
+sanibel	B-	city
+
+GetWeather
+how	O	O
+will	O	O
+the	O	O
+weather	O	O
+be	O	O
+in	O	O
+bhutto	B-	geographic_poi
+family	I-	geographic_poi
+mausoleum	I-	geographic_poi
+next	B-	timeRange
+autumn	I-	timeRange
+?	O	O
+
+GetWeather
+will	O	O
+there	O	O
+be	O	O
+a	O	O
+storm	B-	condition_description
+nearby	B-	spatial_relation
+
+GetWeather
+what's	O	O
+the	O	O
+weather	O	O
+going	O	O
+to	O	O
+be	O	O
+like	O	O
+at	O	O
+my	O	O
+current	B-	current_location
+spot	I-	current_location
+at	O	O
+7	B-	timeRange
+am	I-	timeRange
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+temperature	O	O
+for	O	O
+montserrat	B-	country
+on	O	O
+sep.	B-	timeRange
+the	I-	timeRange
+fourth,	I-	timeRange
+2024	I-	timeRange
+
+GetWeather
+will	O	O
+it	O	O
+be	O	O
+snowy	B-	condition_description
+at	O	O
+the	O	O
+current	B-	current_location
+position	I-	current_location
+by	O	O
+march	B-	timeRange
+3	I-	timeRange
+?	O	O
+
+GetWeather
+i	O	O
+need	O	O
+the	O	O
+forecast	O	O
+for	O	O
+close	B-	spatial_relation
+by	I-	spatial_relation
+becharof	B-	geographic_poi
+national	I-	geographic_poi
+wildlife	I-	geographic_poi
+refuge	I-	geographic_poi
+in	B-	timeRange
+nine	I-	timeRange
+months	I-	timeRange
+
+GetWeather
+how	O	O
+warm	B-	condition_temperature
+is	O	O
+it	O	O
+in	O	O
+darnestown	B-	city
+
+GetWeather
+is	O	O
+it	O	O
+going	O	O
+to	O	O
+be	O	O
+sunny	B-	condition_description
+at	O	O
+five	B-	timeRange
+pm	I-	timeRange
+in	O	O
+chatyrkul	B-	geographic_poi
+wildlife	I-	geographic_poi
+refuge	I-	geographic_poi
+
+GetWeather
+will	O	O
+it	O	O
+snow	B-	condition_description
+in	O	O
+mt	B-	state
+on	O	O
+june	B-	timeRange
+13,	I-	timeRange
+2038	I-	timeRange
+?	O	O
+
+GetWeather
+will	O	O
+it	O	O
+be	O	O
+chillier	B-	condition_temperature
+in	O	O
+la	B-	city
+mesa	I-	city
+?	O	O
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+weather	O	O
+like	O	O
+in	O	O
+antonito	B-	city
+
+GetWeather
+is	O	O
+it	O	O
+going	O	O
+to	O	O
+be	O	O
+chilly	B-	condition_temperature
+in	O	O
+western	B-	country
+sahara	I-	country
+in	O	O
+13	B-	timeRange
+hours	I-	timeRange
+
+GetWeather
+what	O	O
+is	O	O
+the	O	O
+forecast	O	O
+for	O	O
+in	B-	timeRange
+1	I-	timeRange
+second	I-	timeRange
+at	O	O
+monte	B-	city
+sereno	I-	city
+for	O	O
+freezing	B-	condition_temperature
+temps	O	O
+
+GetWeather
+what's	O	O
+it	O	O
+like	O	O
+in	O	O
+bahrain	B-	country
+right	O	O
+now	B-	timeRange
+?	O	O
+
+PlayMusic
+play	O	O
+me	O	O
+track	B-	music_item
+september,	B-	track
+gouden	I-	track
+roos	I-	track
+by	O	O
+artist	O	O
+daedelus	B-	artist
+
+PlayMusic
+play	O	O
+deezer	B-	service
+top	B-	sort
+20	I-	sort
+by	O	O
+natasja	B-	artist
+
+PlayMusic
+play	O	O
+luis	B-	artist
+alfonzo	I-	artist
+larrain	I-	artist
+from	O	O
+1995	B-	year
+
+PlayMusic
+play	O	O
+a	O	O
+tune	B-	music_item
+by	O	O
+houston	B-	artist
+on	O	O
+spotify	B-	service
+
+PlayMusic
+play	O	O
+marche	B-	track
+lorraine	I-	track
+by	O	O
+rachael	B-	artist
+lampa	I-	artist
+
+PlayMusic
+i	O	O
+want	O	O
+hear	O	O
+some	O	O
+junior	B-	artist
+murvin	I-	artist
+off	O	O
+of	O	O
+youtube	B-	service
+
+PlayMusic
+can	O	O
+you	O	O
+play	O	O
+some	O	O
+andrew	B-	artist
+cash	I-	artist
+music	O	O
+on	O	O
+slacker	B-	service
+
+PlayMusic
+play	O	O
+shadowplay	B-	track
+by	O	O
+dana	B-	artist
+on	O	O
+deezer	B-	service
+.	O	O
+
+PlayMusic
+play	O	O
+elastic	B-	track
+love	I-	track
+by	O	O
+junior	B-	artist
+marvin	I-	artist
+
+PlayMusic
+play	O	O
+me	O	O
+a	O	O
+jill	B-	artist
+scott	I-	artist
+sound	B-	music_item
+track	I-	music_item
+on	O	O
+deezer	B-	service
+
+PlayMusic
+play	O	O
+the	O	O
+most	B-	sort
+popular	I-	sort
+twenties	B-	year
+record	B-	music_item
+from	O	O
+leland	B-	artist
+sklar	I-	artist
+
+PlayMusic
+play	O	O
+me	O	O
+a	O	O
+mel	B-	artist
+draisey	I-	artist
+tune	B-	music_item
+from	O	O
+the	O	O
+fourties	B-	year
+with	O	O
+vimeo	B-	service
+
+PlayMusic
+open	O	O
+deezer	B-	service
+and	O	O
+search	O	O
+for	O	O
+scott	B-	artist
+miller	I-	artist
+and	O	O
+play	O	O
+some	O	O
+of	O	O
+his	O	O
+new	B-	sort
+songs	O	O
+
+PlayMusic
+play	O	O
+itunes	B-	service
+songs	O	O
+by	O	O
+gerard	B-	artist
+way	I-	artist
+
+PlayMusic
+please	O	O
+play	O	O
+a	O	O
+song	B-	music_item
+from	O	O
+the	O	O
+thirties	B-	year
+by	O	O
+peter	B-	artist
+murphy	I-	artist
+on	O	O
+last	B-	service
+fm	I-	service
+
+PlayMusic
+play	O	O
+a	O	O
+samira	B-	artist
+said	I-	artist
+ballad	B-	music_item
+from	O	O
+the	O	O
+nineties	B-	year
+
+PlayMusic
+play	O	O
+is	B-	album
+this	I-	album
+my	I-	album
+world	I-	album
+?	O	O
+by	O	O
+leo	B-	artist
+arnaud	I-	artist
+
+PlayMusic
+can	O	O
+you	O	O
+play	O	O
+a	O	O
+top	B-	sort
+song	B-	music_item
+from	O	O
+a	O	O
+chyi	B-	artist
+chin	I-	artist
+concerto	B-	music_item
+
+PlayMusic
+play	O	O
+a	O	O
+track	B-	music_item
+from	O	O
+2004	B-	year
+
+PlayMusic
+play	O	O
+the	O	O
+top-twenty	B-	sort
+songs	O	O
+by	O	O
+the	B-	artist
+kleptones	I-	artist
+on	O	O
+spotify	B-	service
+
+PlayMusic
+play	O	O
+me	O	O
+the	O	O
+best	B-	sort
+charles	B-	artist
+neidich	I-	artist
+song	B-	music_item
+
+PlayMusic
+play	O	O
+dj	B-	artist
+cameo	I-	artist
+on	O	O
+itunes	B-	service
+.	O	O
+
+PlayMusic
+play	O	O
+tad	B-	artist
+kinchla	I-	artist
+soundtrack	B-	music_item
+
+PlayMusic
+play	O	O
+some	O	O
+melody	B-	music_item
+from	O	O
+the	O	O
+eighties	B-	year
+on	O	O
+spotify	B-	service
+
+PlayMusic
+play	O	O
+some	O	O
+carmen	B-	album
+mcrae	I-	album
+from	O	O
+ed	B-	artist
+robertson	I-	artist
+off	O	O
+of	O	O
+itunes	B-	service
+
+PlayMusic
+play	O	O
+a	O	O
+track	B-	music_item
+from	O	O
+the	O	O
+thirties	B-	year
+
+PlayMusic
+play	O	O
+anything	O	O
+from	O	O
+1970	B-	year
+
+PlayMusic
+play	O	O
+music	O	O
+on	O	O
+lastfm	B-	service
+
+PlayMusic
+repeat	B-	track
+the	O	O
+track	B-	music_item
+of	O	O
+music	O	O
+
+PlayMusic
+play	O	O
+some	O	O
+theme	B-	music_item
+songs	O	O
+from	O	O
+the	O	O
+fourties	B-	year
+
+PlayMusic
+play	O	O
+a	O	O
+sound	B-	music_item
+track	I-	music_item
+by	O	O
+vegard	B-	artist
+sverre	I-	artist
+tveitan	I-	artist
+
+PlayMusic
+can	O	O
+i	O	O
+hear	O	O
+a	O	O
+da	B-	artist
+brat	I-	artist
+ep	B-	music_item
+?	O	O
+
+PlayMusic
+play	O	O
+a	O	O
+1950	B-	year
+album	B-	music_item
+on	O	O
+iheart	B-	service
+
+PlayMusic
+play	O	O
+opera	B-	genre
+music	O	O
+on	O	O
+google	B-	service
+music	I-	service
+
+PlayMusic
+play	O	O
+brenda	B-	artist
+kahn	I-	artist
+'s	O	O
+rushall	B-	album
+station	I-	album
+.	O	O
+
+PlayMusic
+play	O	O
+fereydoun	B-	artist
+farrokhzad	I-	artist
+best	B-	sort
+track	B-	music_item
+
+PlayMusic
+play	O	O
+teri	B-	track
+meri	I-	track
+by	O	O
+josh	B-	artist
+white	I-	artist
+
+PlayMusic
+play	O	O
+a	O	O
+2011	B-	year
+ballad	B-	music_item
+by	O	O
+evil	B-	artist
+jared	I-	artist
+hasselhoff	I-	artist
+on	O	O
+lastfm	B-	service
+.	O	O
+
+PlayMusic
+play	O	O
+2006	B-	year
+chant	B-	music_item
+music.	O	O
+
+PlayMusic
+play	O	O
+a	O	O
+twenties	B-	year
+soundtrack	B-	music_item
+on	O	O
+youtube	B-	service
+
+PlayMusic
+play	O	O
+some	O	O
+seventies	B-	year
+music	O	O
+by	O	O
+janne	B-	artist
+puurtinen	I-	artist
+on	O	O
+youtube	B-	service
+.	O	O
+
+PlayMusic
+play	O	O
+fourties	B-	year
+music	O	O
+on	O	O
+pandora	B-	service
+.	O	O
+
+PlayMusic
+play	O	O
+music	O	O
+on	O	O
+itunes	B-	service
+
+PlayMusic
+use	O	O
+itunes	B-	service
+to	O	O
+play	O	O
+music	O	O
+
+PlayMusic
+play	O	O
+me	O	O
+some	O	O
+chant	B-	music_item
+from	O	O
+the	O	O
+last	B-	sort
+half	O	O
+of	O	O
+the	O	O
+sixties	B-	year
+
+PlayMusic
+play	O	O
+songs	O	O
+on	O	O
+itunes	B-	service
+
+PlayMusic
+open	O	O
+spotify	B-	service
+and	O	O
+play	O	O
+a	O	O
+song	B-	music_item
+from	O	O
+the	O	O
+twenties	B-	year
+by	O	O
+richard	B-	artist
+harvey	I-	artist
+
+PlayMusic
+play	O	O
+the	O	O
+album	B-	music_item
+jack	B-	album
+takes	I-	album
+the	I-	album
+floor	I-	album
+by	O	O
+tom	B-	artist
+lehrer	I-	artist
+on	O	O
+netflix	B-	service
+
+PlayMusic
+play	O	O
+the	O	O
+song	B-	music_item
+domino	B-	track
+by	O	O
+luca	B-	artist
+turilli	I-	artist
+
+PlayMusic
+play	O	O
+party	B-	playlist
+anthems	I-	playlist
+
+PlayMusic
+i'd	O	O
+like	O	O
+to	O	O
+hear	O	O
+don	B-	artist
+airey	I-	artist
+'s	O	O
+gonna	B-	track
+raise	I-	track
+hell	I-	track
+
+PlayMusic
+play	O	O
+a	O	O
+song	B-	music_item
+by	O	O
+juanes	B-	artist
+on	O	O
+last	B-	service
+fm	I-	service
+
+PlayMusic
+play	O	O
+some	O	O
+rock	B-	genre
+music	O	O
+on	O	O
+youtube	B-	service
+
+PlayMusic
+i	O	O
+want	O	O
+to	O	O
+hear	O	O
+the	O	O
+album	B-	music_item
+suites	B-	album
+&	I-	album
+sweets	I-	album
+
+PlayMusic
+play	O	O
+some	O	O
+music	O	O
+on	O	O
+groove	B-	service
+shark	I-	service
+.	O	O
+
+PlayMusic
+use	O	O
+groove	B-	service
+shark	I-	service
+to	O	O
+play	O	O
+music	O	O
+from	O	O
+the	O	O
+eighties	B-	year
+
+PlayMusic
+play	O	O
+some	O	O
+twenties	B-	year
+movement	B-	music_item
+tunes	O	O
+from	O	O
+the	O	O
+last	B-	sort
+olga	B-	artist
+souza	I-	artist
+
+PlayMusic
+i	O	O
+want	O	O
+to	O	O
+hear	O	O
+any	O	O
+tune	B-	music_item
+from	O	O
+the	O	O
+twenties	B-	year
+
+PlayMusic
+play	O	O
+halid	B-	album
+08	I-	album
+by	O	O
+video	B-	artist
+game	I-	artist
+pianist	I-	artist
+on	O	O
+pandora	B-	service
+
+PlayMusic
+i	O	O
+want	O	O
+to	O	O
+hear	O	O
+gloryhole	B-	album
+from	O	O
+mani	B-	artist
+off	O	O
+of	O	O
+lastfm	B-	service
+
+PlayMusic
+play	O	O
+sixties	B-	year
+on	O	O
+spotify	B-	service
+
+PlayMusic
+play	O	O
+all	B-	track
+of	I-	track
+your	I-	track
+toys	I-	track
+by	O	O
+chris	B-	artist
+ledoux	I-	artist
+
+PlayMusic
+play	O	O
+twenties	B-	year
+chant	B-	music_item
+from	O	O
+lagaylia	B-	artist
+frazier	I-	artist
+on	O	O
+itunes	B-	service
+
+PlayMusic
+play	O	O
+how	B-	album
+does	I-	album
+it	I-	album
+work	I-	album
+by	O	O
+helen	B-	artist
+carter	I-	artist
+.	O	O
+
+PlayMusic
+play	O	O
+tina	B-	artist
+cousins	I-	artist
+from	O	O
+1956	B-	year
+
+PlayMusic
+play	O	O
+a	O	O
+new	B-	sort
+ballad	B-	music_item
+by	O	O
+valy	B-	artist
+on	O	O
+iheart	B-	service
+
+PlayMusic
+i	O	O
+wish	O	O
+to	O	O
+listen	O	O
+to	O	O
+some	O	O
+fifties	B-	year
+music.	O	O
+
+PlayMusic
+play	O	O
+some	O	O
+mf	B-	artist
+doom	I-	artist
+from	O	O
+the	O	O
+sixties	B-	year
+on	O	O
+pandora	B-	service
+.	O	O
+
+PlayMusic
+play	O	O
+fourties	B-	year
+tunes	O	O
+
+PlayMusic
+play	O	O
+the	O	O
+song	B-	music_item
+waar	B-	track
+is	I-	track
+de	I-	track
+zon	I-	track
+on	O	O
+slacker	B-	service
+
+PlayMusic
+play	O	O
+oliver	B-	track
+on	O	O
+pandora	B-	service
+.	O	O
+
+PlayMusic
+play	O	O
+a	O	O
+track	B-	music_item
+by	O	O
+yui	B-	artist
+on	O	O
+vimeo	B-	service
+
+PlayMusic
+i	O	O
+want	O	O
+to	O	O
+hear	O	O
+dave	B-	artist
+seaman	I-	artist
+'s	O	O
+ep	B-	music_item
+
+PlayMusic
+play	O	O
+pura	B-	playlist
+vida	I-	playlist
+.	O	O
+
+PlayMusic
+play	O	O
+some	O	O
+david	B-	artist
+mallett	I-	artist
+on	O	O
+last	B-	service
+fm	I-	service
+
+PlayMusic
+play	O	O
+a	O	O
+top	B-	sort
+twenty	I-	sort
+symphony	B-	music_item
+of	O	O
+2010	B-	year
+
+PlayMusic
+please	O	O
+play	O	O
+some	O	O
+fourties	B-	year
+music	O	O
+on	O	O
+spotify	B-	service
+
+PlayMusic
+i	O	O
+want	O	O
+to	O	O
+hear	O	O
+vegetables	B-	track
+by	O	O
+pharrell	B-	artist
+williams	I-	artist
+
+PlayMusic
+can	O	O
+you	O	O
+play	O	O
+the	O	O
+latest	B-	sort
+faust	B-	artist
+soundtrack	B-	music_item
+from	O	O
+1967	B-	year
+?	O	O
+
+PlayMusic
+play	O	O
+in	B-	track
+your	I-	track
+eyes	I-	track
+by	O	O
+gareth	B-	artist
+gates	I-	artist
+on	O	O
+netflix	B-	service
+
+PlayMusic
+play	O	O
+dave	B-	artist
+wyndorf	I-	artist
+album	B-	music_item
+
+PlayMusic
+please	O	O
+play	O	O
+an	O	O
+album	B-	music_item
+from	O	O
+1987	B-	year
+
+PlayMusic
+play	O	O
+some	O	O
+latin	B-	genre
+music.	O	O
+
+PlayMusic
+play	O	O
+the	O	O
+latest	B-	sort
+ep	B-	music_item
+from	O	O
+lobby	B-	artist
+loyde	I-	artist
+on	O	O
+netflix	B-	service
+
+PlayMusic
+play	O	O
+songs	O	O
+from	O	O
+youtube	B-	service
+
+PlayMusic
+play	O	O
+1988	B-	year
+chant	B-	music_item
+music	O	O
+on	O	O
+itunes	B-	service
+
+PlayMusic
+play	O	O
+music	O	O
+from	O	O
+the	O	O
+playlist	O	O
+get	B-	playlist
+your	I-	playlist
+mind	I-	playlist
+right	I-	playlist
+
+PlayMusic
+play	O	O
+change	B-	album
+has	I-	album
+come	I-	album
+on	O	O
+google	B-	service
+music	I-	service
+.	O	O
+
+PlayMusic
+play	O	O
+long	B-	track
+way	I-	track
+to	I-	track
+go	I-	track
+by	O	O
+keita	B-	artist
+tachibana	I-	artist
+
+PlayMusic
+play	O	O
+some	O	O
+dance	B-	genre
+on	O	O
+groove	B-	service
+shark	I-	service
+
+PlayMusic
+play	O	O
+soundtrack	B-	music_item
+by	O	O
+armand	B-	artist
+van	I-	artist
+helden	I-	artist
+
+PlayMusic
+play	O	O
+symphony	B-	music_item
+music	O	O
+from	O	O
+joe	B-	artist
+dolce	I-	artist
+
+PlayMusic
+i	O	O
+want	O	O
+to	O	O
+listen	O	O
+to	O	O
+a	O	O
+concerto	B-	music_item
+from	O	O
+timour	B-	artist
+moutsouraev	I-	artist
+.	O	O
+
+PlayMusic
+play	O	O
+the	O	O
+best	B-	sort
+1981	B-	year
+sound	B-	music_item
+track	I-	music_item
+from	O	O
+ric	B-	artist
+fierabracci	I-	artist
+
+PlayMusic
+play	O	O
+the	O	O
+album	B-	music_item
+everybody	B-	album
+happy	I-	album
+by	O	O
+lee	B-	artist
+aaron	I-	artist
+
+PlayMusic
+play	O	O
+the	O	O
+album	B-	music_item
+vibrations	B-	album
+by	O	O
+marion	B-	artist
+elise	I-	artist
+raven	I-	artist
+
+PlayMusic
+play	O	O
+the	O	O
+song	B-	music_item
+drifting	B-	track
+on	I-	track
+a	I-	track
+reed	I-	track
+by	O	O
+bobby	B-	artist
+g	I-	artist
+
+PlayMusic
+play	O	O
+melody	B-	music_item
+and	O	O
+sort	O	O
+the	O	O
+newest	B-	sort
+in	O	O
+dj	B-	artist
+format	I-	artist
+
+PlayMusic
+play	O	O
+top	B-	sort
+tunes	O	O
+by	O	O
+joseph	B-	artist
+utsler	I-	artist
+
+PlayMusic
+play	O	O
+newest	B-	sort
+robert	B-	artist
+palmer	I-	artist
+sound	B-	music_item
+track	I-	music_item
+
+RateBook
+rate	O	O
+12	B-	object_name
+great	I-	object_name
+classics	I-	object_name
+of	I-	object_name
+science	I-	object_name
+fiction	I-	object_name
+zero	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+points	B-	rating_unit
+
+RateBook
+contemporary	B-	object_name
+religious	I-	object_name
+satanism	I-	object_name
+gets	O	O
+a	O	O
+3	B-	rating_value
+rating.	O	O
+
+RateBook
+rate	O	O
+the	O	O
+last	B-	object_select
+saga	B-	object_part_of_series_type
+3	B-	rating_value
+
+RateBook
+zero	B-	rating_value
+points	B-	rating_unit
+for	O	O
+birds	B-	object_name
+of	I-	object_name
+south	I-	object_name
+asia.	I-	object_name
+the	I-	object_name
+ripley	I-	object_name
+guide	I-	object_name
+
+RateBook
+i	O	O
+would	O	O
+give	O	O
+half	B-	object_name
+a	I-	object_name
+life	I-	object_name
+3	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+
+RateBook
+i	O	O
+would	O	O
+give	O	O
+sixty	B-	object_name
+lights	I-	object_name
+chronicle	B-	object_part_of_series_type
+a	O	O
+rating	O	O
+of	O	O
+five	B-	rating_value
+and	O	O
+a	O	O
+best	O	O
+rating	O	O
+of	O	O
+6	B-	best_rating
+
+RateBook
+rate	O	O
+getting	B-	object_name
+it	I-	object_name
+wrong	I-	object_name
+from	I-	object_name
+the	I-	object_name
+beginning	I-	object_name
+a	O	O
+value	O	O
+of	O	O
+4	B-	rating_value
+
+RateBook
+rate	O	O
+the	O	O
+chronicle	B-	object_part_of_series_type
+tarzan	B-	object_name
+the	I-	object_name
+terrible	I-	object_name
+a	O	O
+4	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+
+RateBook
+this	O	O
+current	B-	object_select
+book	B-	object_type
+deserves	O	O
+1	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+rate	O	O
+the	O	O
+current	B-	object_select
+essay	B-	object_type
+five	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+stars	B-	rating_unit
+
+RateBook
+i	O	O
+rate	O	O
+the	O	O
+current	B-	object_select
+textbook	B-	object_type
+a	O	O
+1	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+.	O	O
+
+RateBook
+i	O	O
+want	O	O
+to	O	O
+rate	O	O
+the	B-	object_name
+obama	I-	object_name
+syndrome	I-	object_name
+zero	B-	rating_value
+of	O	O
+6	B-	best_rating
+
+RateBook
+give	O	O
+this	B-	object_select
+album	B-	object_type
+1	B-	rating_value
+stars	B-	rating_unit
+.	O	O
+
+RateBook
+the	O	O
+current	B-	object_select
+album	B-	object_type
+gets	O	O
+three	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+points	B-	rating_unit
+
+RateBook
+the	B-	object_name
+latham	I-	object_name
+diaries	I-	object_name
+deserves	O	O
+a	O	O
+rating	O	O
+value	O	O
+of	O	O
+0	B-	rating_value
+and	O	O
+a	O	O
+best	O	O
+rating	O	O
+of	O	O
+6	B-	best_rating
+
+RateBook
+i	O	O
+think	O	O
+this	B-	object_select
+textbook	B-	object_type
+should	O	O
+have	O	O
+a	O	O
+rating	O	O
+of	O	O
+four	B-	rating_value
+and	O	O
+a	O	O
+best	O	O
+rating	O	O
+of	O	O
+6	B-	best_rating
+
+RateBook
+give	O	O
+five	B-	rating_value
+points	B-	rating_unit
+to	O	O
+the	B-	object_name
+tenor	I-	object_name
+wore	I-	object_name
+tapshoes	I-	object_name
+
+RateBook
+rate	O	O
+the	O	O
+ninth	B-	object_name
+key	I-	object_name
+3	B-	rating_value
+of	O	O
+6	B-	best_rating
+points	B-	rating_unit
+
+RateBook
+i	O	O
+give	O	O
+this	B-	object_select
+textbook	B-	object_type
+a	O	O
+5	B-	rating_value
+
+RateBook
+rate	O	O
+this	B-	object_select
+album	B-	object_type
+2	B-	rating_value
+stars	B-	rating_unit
+
+RateBook
+i	O	O
+give	O	O
+the	O	O
+flash	B-	object_name
+series	B-	object_part_of_series_type
+0	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+.	O	O
+
+RateBook
+give	O	O
+this	B-	object_select
+novel	B-	object_type
+5	B-	rating_value
+stars	B-	rating_unit
+
+RateBook
+rate	O	O
+the	B-	object_name
+art	I-	object_name
+of	I-	object_name
+nijinsky	I-	object_name
+5	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+give	O	O
+three	B-	rating_value
+stars	B-	rating_unit
+/	O	O
+6	B-	best_rating
+to	O	O
+my	B-	object_name
+sister,	I-	object_name
+my	I-	object_name
+love	I-	object_name
+
+RateBook
+rate	O	O
+this	O	O
+current	B-	object_select
+album	B-	object_type
+five	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+points	B-	rating_unit
+
+RateBook
+they	B-	object_name
+knew	I-	object_name
+mr.	I-	object_name
+knight	I-	object_name
+should	O	O
+get	O	O
+out	O	O
+of	O	O
+6	B-	best_rating
+a	O	O
+rating	O	O
+of	O	O
+two	B-	rating_value
+
+RateBook
+rate	O	O
+the	O	O
+casualties	B-	object_name
+of	I-	object_name
+peace	I-	object_name
+series	B-	object_part_of_series_type
+one	B-	rating_value
+of	O	O
+6	B-	best_rating
+
+RateBook
+give	O	O
+five	B-	rating_value
+points	B-	rating_unit
+to	O	O
+current	B-	object_select
+textbook	B-	object_type
+
+RateBook
+give	O	O
+two	B-	rating_value
+points	B-	rating_unit
+to	O	O
+one	B-	object_name
+virgin	I-	object_name
+too	I-	object_name
+many	I-	object_name
+
+RateBook
+rate	O	O
+this	B-	object_name
+is	I-	object_name
+how	I-	object_name
+you	I-	object_name
+die	I-	object_name
+chronicle	B-	object_part_of_series_type
+a	O	O
+one	B-	rating_value
+
+RateBook
+give	O	O
+home	B-	object_name
+is	I-	object_name
+the	I-	object_name
+hunter	I-	object_name
+zero	B-	rating_value
+stars	B-	rating_unit
+
+RateBook
+rate	O	O
+this	B-	object_select
+novel	B-	object_type
+5	B-	rating_value
+stars	B-	rating_unit
+
+RateBook
+rate	O	O
+unlimited	B-	object_name
+power	I-	object_name
+4	B-	rating_value
+of	O	O
+6	B-	best_rating
+points	B-	rating_unit
+
+RateBook
+rate	O	O
+the	O	O
+next	B-	object_select
+book	B-	object_type
+0	B-	rating_value
+of	O	O
+6	B-	best_rating
+
+RateBook
+the	O	O
+amityville	B-	object_name
+the	I-	object_name
+evil	I-	object_name
+escapes	I-	object_name
+chronicle	B-	object_part_of_series_type
+is	O	O
+only	O	O
+a	O	O
+1	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+.	O	O
+
+RateBook
+rate	O	O
+cousin	B-	object_name
+bette	I-	object_name
+5	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+i	O	O
+give	O	O
+the	O	O
+book	B-	object_type
+the	B-	object_name
+silence	I-	object_name
+of	I-	object_name
+the	I-	object_name
+lambs	I-	object_name
+a	O	O
+rating	O	O
+of	O	O
+zero	B-	rating_value
+of	O	O
+a	O	O
+possiable	O	O
+6	B-	best_rating
+
+RateBook
+rate	O	O
+scarecrow	B-	object_name
+and	I-	object_name
+the	I-	object_name
+army	I-	object_name
+of	I-	object_name
+thieves	I-	object_name
+a	O	O
+three	B-	rating_value
+
+RateBook
+rate	O	O
+the	O	O
+wild	B-	object_name
+boy	I-	object_name
+series	B-	object_part_of_series_type
+3	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+stars	B-	rating_unit
+
+RateBook
+rate	O	O
+current	B-	object_select
+novel	B-	object_type
+3	B-	rating_value
+stars	B-	rating_unit
+
+RateBook
+for	O	O
+mirrorshades	B-	object_name
+i	O	O
+rate	O	O
+it	O	O
+three	B-	rating_value
+stars	B-	rating_unit
+
+RateBook
+rate	O	O
+the	O	O
+current	B-	object_select
+novel	B-	object_type
+one	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+i	O	O
+want	O	O
+to	O	O
+give	O	O
+rebbe	B-	object_name
+the	I-	object_name
+life	I-	object_name
+and	I-	object_name
+teachings	I-	object_name
+of	I-	object_name
+menachem	I-	object_name
+m.	I-	object_name
+schneerson,	I-	object_name
+the	I-	object_name
+most	I-	object_name
+influential	I-	object_name
+rabbi	I-	object_name
+in	I-	object_name
+modern	I-	object_name
+history	I-	object_name
+two	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+points	B-	rating_unit
+
+RateBook
+for	O	O
+the	O	O
+book	B-	object_type
+deception	B-	object_name
+i	O	O
+rate	O	O
+it	O	O
+four	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+rate	O	O
+political	B-	object_name
+liberalism	I-	object_name
+1	B-	rating_value
+out	O	O
+6	B-	best_rating
+stars	B-	rating_unit
+
+RateBook
+i	O	O
+would	O	O
+rate	O	O
+the	O	O
+chronicle	B-	object_part_of_series_type
+the	B-	object_name
+monks	I-	object_name
+of	I-	object_name
+thelema	I-	object_name
+a	O	O
+2	B-	rating_value
+
+RateBook
+rate	O	O
+the	B-	object_name
+doors	I-	object_name
+of	I-	object_name
+perception	I-	object_name
+3	B-	rating_value
+stars	B-	rating_unit
+
+RateBook
+rate	O	O
+the	B-	object_name
+simplest	I-	object_name
+words	I-	object_name
+a	O	O
+four	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+.	O	O
+
+RateBook
+rate	O	O
+this	B-	object_select
+essay	B-	object_type
+2	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+stars	B-	rating_unit
+
+RateBook
+give	O	O
+this	B-	object_select
+series	B-	object_part_of_series_type
+4	B-	rating_value
+stars	B-	rating_unit
+
+RateBook
+i	O	O
+gave	O	O
+the	O	O
+current	B-	object_select
+series	B-	object_part_of_series_type
+0	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+i	O	O
+would	O	O
+give	O	O
+this	O	O
+current	B-	object_select
+novel	B-	object_type
+one	B-	rating_value
+stars	B-	rating_unit
+
+RateBook
+i'd	O	O
+rate	O	O
+the	O	O
+chronicle	B-	object_part_of_series_type
+called	O	O
+the	B-	object_name
+art	I-	object_name
+of	I-	object_name
+loving	I-	object_name
+3	B-	rating_value
+points	B-	rating_unit
+out	O	O
+of	O	O
+6	B-	best_rating
+
+RateBook
+i	O	O
+want	O	O
+to	O	O
+rate	O	O
+the	O	O
+children	B-	object_name
+of	I-	object_name
+this	I-	object_name
+earth	I-	object_name
+chronicle	B-	object_part_of_series_type
+a	O	O
+rating	O	O
+value	O	O
+of	O	O
+1	B-	rating_value
+and	O	O
+a	O	O
+best	O	O
+rating	O	O
+of	O	O
+6	B-	best_rating
+
+RateBook
+i	O	O
+want	O	O
+to	O	O
+give	O	O
+the	B-	object_name
+canon	I-	object_name
+of	I-	object_name
+medicine	I-	object_name
+one	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+stars	B-	rating_unit
+
+RateBook
+i	O	O
+would	O	O
+rate	O	O
+the	O	O
+executive	B-	object_name
+power	I-	object_name
+a	O	O
+four	B-	rating_value
+and	O	O
+a	O	O
+best	O	O
+rating	O	O
+of	O	O
+6	B-	best_rating
+
+RateBook
+rate	O	O
+the	B-	object_name
+australian	I-	object_name
+ugliness	I-	object_name
+3	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+give	O	O
+1	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+points	B-	rating_unit
+to	O	O
+current	B-	object_select
+saga	B-	object_part_of_series_type
+
+RateBook
+rate	O	O
+the	O	O
+current	B-	object_select
+chronicle	B-	object_part_of_series_type
+a	O	O
+one	B-	rating_value
+
+RateBook
+rate	O	O
+the	O	O
+current	B-	object_select
+book	B-	object_type
+2	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+swine	B-	object_name
+not	I-	object_name
+?	O	O
+deserves	O	O
+four	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+add	O	O
+this	O	O
+current	B-	object_select
+book	B-	object_type
+five	B-	rating_value
+stars	B-	rating_unit
+
+RateBook
+rate	O	O
+this	O	O
+book	B-	object_type
+titled	O	O
+the	B-	object_name
+clue	I-	object_name
+in	I-	object_name
+the	I-	object_name
+old	I-	object_name
+album	I-	object_name
+one	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+stars	B-	rating_unit
+
+RateBook
+i	O	O
+think	O	O
+that	O	O
+this	B-	object_select
+chronicle	B-	object_part_of_series_type
+should	O	O
+have	O	O
+a	O	O
+best	O	O
+rating	O	O
+of	O	O
+6	B-	best_rating
+and	O	O
+a	O	O
+value	O	O
+of	O	O
+one	B-	rating_value
+
+RateBook
+i	O	O
+want	O	O
+to	O	O
+give	O	O
+this	B-	object_select
+book	B-	object_type
+a	O	O
+rating	O	O
+of	O	O
+2	B-	rating_value
+points	B-	rating_unit
+out	O	O
+of	O	O
+6	B-	best_rating
+.	O	O
+
+RateBook
+rate	O	O
+the	O	O
+current	B-	object_select
+book	B-	object_type
+3	B-	rating_value
+of	O	O
+6	B-	best_rating
+
+RateBook
+rate	O	O
+this	O	O
+part	O	O
+of	O	O
+the	O	O
+series	B-	object_part_of_series_type
+,	O	O
+the	B-	object_name
+harrowing	I-	object_name
+of	I-	object_name
+gwynedd	I-	object_name
+,	O	O
+zero	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+.	O	O
+
+RateBook
+give	O	O
+mason	B-	object_name
+&	I-	object_name
+dixon	I-	object_name
+a	O	O
+rating	O	O
+of	O	O
+three	B-	rating_value
+.	O	O
+
+RateBook
+rate	O	O
+the	B-	object_name
+last	I-	object_name
+opium	I-	object_name
+den	I-	object_name
+0	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+rate	O	O
+a	B-	object_name
+tale	I-	object_name
+of	I-	object_name
+love	I-	object_name
+and	I-	object_name
+darkness	I-	object_name
+0	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+rate	O	O
+the	O	O
+black	B-	object_name
+coffee	I-	object_name
+chronicle	B-	object_part_of_series_type
+three	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+stars	B-	rating_unit
+
+RateBook
+the	O	O
+points	B-	rating_unit
+given	O	O
+are	O	O
+five	B-	rating_value
+for	O	O
+dust	B-	object_name
+and	I-	object_name
+shadow	I-	object_name
+
+RateBook
+rate	O	O
+this	O	O
+current	B-	object_select
+essay	B-	object_type
+three	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+stars	B-	rating_unit
+
+RateBook
+assign	O	O
+0	B-	rating_value
+points	B-	rating_unit
+out	O	O
+of	O	O
+6	B-	best_rating
+to	O	O
+the	B-	object_name
+gate	I-	object_name
+of	I-	object_name
+worlds	I-	object_name
+
+RateBook
+give	O	O
+2	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+points	B-	rating_unit
+to	O	O
+a	B-	object_name
+tale	I-	object_name
+of	I-	object_name
+time	I-	object_name
+city	I-	object_name
+
+RateBook
+give	O	O
+the	O	O
+current	B-	object_select
+book	B-	object_type
+5	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+points	B-	rating_unit
+.	O	O
+
+RateBook
+i	O	O
+rated	O	O
+the	B-	object_name
+island	I-	object_name
+of	I-	object_name
+adventure	I-	object_name
+saga	B-	object_part_of_series_type
+a	O	O
+2	B-	rating_value
+of	O	O
+6	B-	best_rating
+
+RateBook
+rate	O	O
+my	O	O
+current	B-	object_select
+novel	B-	object_type
+one	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+points	B-	rating_unit
+
+RateBook
+rate	O	O
+the	O	O
+current	B-	object_select
+essay	B-	object_type
+four	B-	rating_value
+stars	B-	rating_unit
+
+RateBook
+rate	O	O
+tropic	B-	object_name
+of	I-	object_name
+orange	I-	object_name
+a	O	O
+three	B-	rating_value
+
+RateBook
+i	O	O
+want	O	O
+to	O	O
+rate	O	O
+the	O	O
+current	B-	object_select
+textbook	B-	object_type
+with	O	O
+4	B-	rating_value
+
+RateBook
+rate	O	O
+this	B-	object_select
+textbook	B-	object_type
+a	O	O
+2	B-	rating_value
+.	O	O
+
+RateBook
+i	O	O
+would	O	O
+like	O	O
+to	O	O
+rate	O	O
+hive	B-	object_name
+propolis	I-	object_name
+4	B-	rating_value
+stars	B-	rating_unit
+with	O	O
+a	O	O
+best	O	O
+rating	O	O
+of	O	O
+6	B-	best_rating
+
+RateBook
+give	O	O
+the	O	O
+current	B-	object_select
+novel	B-	object_type
+a	O	O
+3	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+rating	O	O
+
+RateBook
+rate	O	O
+my	O	O
+current	B-	object_select
+essay	B-	object_type
+a	O	O
+2	B-	rating_value
+
+RateBook
+rate	O	O
+the	O	O
+which	B-	object_name
+moped	I-	object_name
+with	I-	object_name
+chrome-plated	I-	object_name
+handlebars	I-	object_name
+at	I-	object_name
+the	I-	object_name
+back	I-	object_name
+of	I-	object_name
+the	I-	object_name
+yard	I-	object_name
+?	O	O
+saga	B-	object_part_of_series_type
+a	O	O
+one	B-	rating_value
+
+RateBook
+i	O	O
+giv	O	O
+the	O	O
+current	B-	object_select
+novel	B-	object_type
+a	O	O
+four	B-	rating_value
+
+RateBook
+i	O	O
+give	O	O
+the	B-	object_name
+battle	I-	object_name
+of	I-	object_name
+bretton	I-	object_name
+woods	I-	object_name
+saga	B-	object_part_of_series_type
+two	B-	rating_value
+of	O	O
+6	B-	best_rating
+stars	B-	rating_unit
+
+RateBook
+i	O	O
+give	O	O
+hadon	B-	object_name
+of	I-	object_name
+ancient	I-	object_name
+opar	I-	object_name
+two	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+points	B-	rating_unit
+
+RateBook
+rate	O	O
+this	B-	object_select
+album	B-	object_type
+0	B-	rating_value
+points	B-	rating_unit
+out	O	O
+of	O	O
+6	B-	best_rating
+
+RateBook
+rate	O	O
+the	B-	object_name
+man	I-	object_name
+from	I-	object_name
+the	I-	object_name
+ussr	I-	object_name
+and	I-	object_name
+other	I-	object_name
+plays	I-	object_name
+a	O	O
+0	B-	rating_value
+
+RateBook
+rate	O	O
+the	O	O
+current	B-	object_select
+novel	B-	object_type
+0	B-	rating_value
+of	O	O
+6	B-	best_rating
+
+RateBook
+for	O	O
+this	B-	object_select
+novel	B-	object_type
+i	O	O
+give	O	O
+a	O	O
+rating	O	O
+of	O	O
+4	B-	rating_value
+out	O	O
+of	O	O
+6	B-	best_rating
+
+RateBook
+rate	O	O
+equal	B-	object_name
+affections	I-	object_name
+one	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+rate	O	O
+this	B-	object_select
+textbook	B-	object_type
+four	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+rate	O	O
+the	O	O
+current	B-	object_select
+novel	B-	object_type
+one	B-	rating_value
+of	O	O
+6	B-	best_rating
+
+RateBook
+i	O	O
+would	O	O
+rate	O	O
+the	B-	object_name
+best	I-	object_name
+science	I-	object_name
+fiction	I-	object_name
+stories	I-	object_name
+and	I-	object_name
+novels	I-	object_name
+ninth	I-	object_name
+series	I-	object_name
+5	B-	rating_value
+points	B-	rating_unit
+
+RateBook
+i	O	O
+give	O	O
+it	O	O
+a	O	O
+rating	O	O
+value	O	O
+of	O	O
+four	B-	rating_value
+to	O	O
+6	B-	best_rating
+to	O	O
+a	O	O
+book	B-	object_type
+called	O	O
+liberalism	B-	object_name
+and	I-	object_name
+the	I-	object_name
+limits	I-	object_name
+of	I-	object_name
+justice	I-	object_name
+
+RateBook
+rate	O	O
+the	O	O
+current	B-	object_select
+book	B-	object_type
+three	B-	rating_value
+stars	B-	rating_unit
+
+RateBook
+rate	O	O
+a	B-	object_name
+pelican	I-	object_name
+at	I-	object_name
+blandings	I-	object_name
+a	O	O
+2	B-	rating_value
+
+SearchCreativeWork
+where	O	O
+can	O	O
+i	O	O
+read	O	O
+the	O	O
+book	B-	object_type
+the	B-	object_name
+omega	I-	object_name
+stone	I-	object_name
+?	O	O
+
+SearchCreativeWork
+play	O	O
+cry	B-	object_name
+baby	I-	object_name
+lane	I-	object_name
+
+SearchCreativeWork
+show	O	O
+creative	O	O
+video	B-	object_type
+game	I-	object_type
+name	O	O
+foros	B-	object_name
+timis	I-	object_name
+ston	I-	object_name
+greco	I-	object_name
+
+SearchCreativeWork
+play	O	O
+the	O	O
+song	B-	object_type
+aura	B-	object_name
+ii	I-	object_name
+the	I-	object_name
+sacred	I-	object_name
+rings	I-	object_name
+
+SearchCreativeWork
+info	O	O
+on	O	O
+show	B-	object_type
+natural	B-	object_name
+language	I-	object_name
+and	I-	object_name
+linguistic	I-	object_name
+theory	I-	object_name
+
+SearchCreativeWork
+what	O	O
+system	O	O
+is	O	O
+bloodhounds	B-	object_name
+of	I-	object_name
+broadway	I-	object_name
+the	O	O
+game	B-	object_type
+for?	O	O
+
+SearchCreativeWork
+find	O	O
+the	O	O
+picture	B-	object_type
+ultima	B-	object_name
+vi	I-	object_name
+the	I-	object_name
+false	I-	object_name
+prophet	I-	object_name
+
+SearchCreativeWork
+find	O	O
+old	B-	object_name
+school	I-	object_name
+junkies	I-	object_name
+the	I-	object_name
+album	I-	object_name
+,	O	O
+a	O	O
+video	B-	object_type
+game	I-	object_type
+
+SearchCreativeWork
+get	O	O
+me	O	O
+a	O	O
+photograph	B-	object_type
+of	O	O
+trac	B-	object_name
+
+SearchCreativeWork
+where	O	O
+can	O	O
+i	O	O
+watch	O	O
+the	O	O
+television	B-	object_type
+show	I-	object_type
+called	O	O
+fangs	B-	object_name
+of	I-	object_name
+the	I-	object_name
+arctic	I-	object_name
+?	O	O
+
+SearchCreativeWork
+find	O	O
+she	B-	object_name
+monkeys	I-	object_name
+
+SearchCreativeWork
+find	O	O
+a	O	O
+trailer	B-	object_type
+called	O	O
+no	B-	object_name
+reservations	I-	object_name
+.	O	O
+
+SearchCreativeWork
+look	O	O
+up	O	O
+the	O	O
+show	B-	object_type
+cissy	B-	object_name
+houston	I-	object_name
+
+SearchCreativeWork
+i	O	O
+want	O	O
+to	O	O
+watch	O	O
+the	O	O
+trailer	B-	object_type
+ad	B-	object_name
+nauseam	I-	object_name
+
+SearchCreativeWork
+find	O	O
+soundtrack	B-	object_type
+titled	O	O
+the	B-	object_name
+house	I-	object_name
+of	I-	object_name
+the	I-	object_name
+yellow	I-	object_name
+carpet	I-	object_name
+
+SearchCreativeWork
+find	O	O
+a	O	O
+picture	B-	object_type
+called	O	O
+battlefield	B-	object_name
+network	I-	object_name
+.	O	O
+
+SearchCreativeWork
+show	O	O
+me	O	O
+the	O	O
+picture	B-	object_type
+nothin	B-	object_name
+
+SearchCreativeWork
+find	O	O
+the	O	O
+trailer	B-	object_type
+for	O	O
+real	B-	object_name
+men	I-	object_name
+cry	I-	object_name
+
+SearchCreativeWork
+find	O	O
+do	B-	object_name
+you	I-	object_name
+wanna	I-	object_name
+touch	I-	object_name
+me	I-	object_name
+,	O	O
+a	O	O
+song	B-	object_type
+
+SearchCreativeWork
+play	O	O
+the	B-	object_name
+crowd	I-	object_name
+a	I-	object_name
+study	I-	object_name
+of	I-	object_name
+the	I-	object_name
+popular	I-	object_name
+mind	I-	object_name
+soundtrack	B-	object_type
+
+SearchCreativeWork
+where	O	O
+can	O	O
+i	O	O
+find	O	O
+the	O	O
+saga	B-	object_type
+addicted	B-	object_name
+to	I-	object_name
+love	I-	object_name
+
+SearchCreativeWork
+find	O	O
+me	O	O
+the	O	O
+fruit	B-	object_name
+of	I-	object_name
+life	I-	object_name
+television	B-	object_type
+show	I-	object_type
+.	O	O
+
+SearchCreativeWork
+show	O	O
+book	B-	object_type
+name	O	O
+straight	B-	object_name
+no	I-	object_name
+chase	I-	object_name
+
+SearchCreativeWork
+find	O	O
+the	B-	object_name
+saint	I-	object_name
+in	I-	object_name
+new	I-	object_name
+york	I-	object_name
+,	O	O
+a	O	O
+show	B-	object_type
+
+SearchCreativeWork
+find	O	O
+a	O	O
+photograph	B-	object_type
+of	O	O
+adventure	B-	object_name
+time	I-	object_name
+the	I-	object_name
+secret	I-	object_name
+of	I-	object_name
+the	I-	object_name
+nameless	I-	object_name
+kingdom	I-	object_name
+
+SearchCreativeWork
+find	O	O
+long	B-	object_name
+hello	I-	object_name
+and	I-	object_name
+short	I-	object_name
+goodbye	I-	object_name
+,	O	O
+a	O	O
+movie	B-	object_type
+
+SearchCreativeWork
+show	O	O
+me	O	O
+the	B-	object_name
+edge	I-	object_name
+of	I-	object_name
+love	I-	object_name
+photograph	B-	object_type
+
+SearchCreativeWork
+go	O	O
+to	O	O
+the	O	O
+tv	B-	object_type
+series	I-	object_type
+love	B-	object_name
+berry	I-	object_name
+
+SearchCreativeWork
+find	O	O
+a	O	O
+movie	B-	object_type
+called	O	O
+october	B-	object_name
+road	I-	object_name
+
+SearchCreativeWork
+where	O	O
+can	O	O
+i	O	O
+get	O	O
+the	O	O
+video	B-	object_type
+game	I-	object_type
+faith	B-	object_name
+in	I-	object_name
+chaos	I-	object_name
+?	O	O
+
+SearchCreativeWork
+i	O	O
+want	O	O
+the	O	O
+photograph	B-	object_type
+of	O	O
+walt	B-	object_name
+before	I-	object_name
+mickey	I-	object_name
+
+SearchCreativeWork
+show	O	O
+the	B-	object_name
+lateness	I-	object_name
+of	I-	object_name
+the	I-	object_name
+hour	I-	object_name
+
+SearchCreativeWork
+show	O	O
+me	O	O
+the	O	O
+movie	B-	object_type
+sonic	B-	object_name
+triple	I-	object_name
+trouble	I-	object_name
+
+SearchCreativeWork
+play	O	O
+bliss	B-	object_name
+torn	I-	object_name
+from	I-	object_name
+emptiness	I-	object_name
+
+SearchCreativeWork
+i	O	O
+want	O	O
+to	O	O
+find	O	O
+the	O	O
+show	B-	object_type
+from	B-	object_name
+where	I-	object_name
+to	I-	object_name
+eternity	I-	object_name
+.	O	O
+
+SearchCreativeWork
+find	O	O
+the	O	O
+tv	B-	object_type
+show	I-	object_type
+starship	B-	object_name
+titanic	I-	object_name
+
+SearchCreativeWork
+find	O	O
+the	B-	object_name
+ultimate	I-	object_name
+gift	I-	object_name
+,	O	O
+a	O	O
+television	B-	object_type
+show	I-	object_type
+
+SearchCreativeWork
+wish	O	O
+to	O	O
+hear	O	O
+the	O	O
+album	B-	object_type
+since	B-	object_name
+i	I-	object_name
+saw	I-	object_name
+you	I-	object_name
+last	I-	object_name
+
+SearchCreativeWork
+find	O	O
+a	O	O
+video	B-	object_type
+game	I-	object_type
+called	O	O
+ibm	B-	object_name
+program	I-	object_name
+temporary	I-	object_name
+fix	I-	object_name
+
+SearchCreativeWork
+show	O	O
+the	B-	object_name
+taste	I-	object_name
+
+SearchCreativeWork
+find	O	O
+a	O	O
+soundtrack	B-	object_type
+called	O	O
+the	B-	object_name
+christmas	I-	object_name
+shoes	I-	object_name
+.	O	O
+
+SearchCreativeWork
+find	O	O
+the	O	O
+picture	B-	object_type
+louder	B-	object_name
+than	I-	object_name
+bombs	I-	object_name
+
+SearchCreativeWork
+what	O	O
+is	O	O
+the	O	O
+current	O	O
+selling	O	O
+price	O	O
+of	O	O
+the	O	O
+novel	B-	object_type
+the	B-	object_name
+sims	I-	object_name
+3	I-	object_name
+island	I-	object_name
+paradise	I-	object_name
+?	O	O
+
+SearchCreativeWork
+show	O	O
+50	B-	object_name
+words	I-	object_name
+for	I-	object_name
+snow	I-	object_name
+creative	O	O
+picture	B-	object_type
+
+SearchCreativeWork
+show	B-	object_type
+creativity	O	O
+of	O	O
+construction	B-	object_name
+project	I-	object_name
+information	I-	object_name
+committee	I-	object_name
+
+SearchCreativeWork
+i'd	O	O
+like	O	O
+to	O	O
+see	O	O
+the	O	O
+saga	B-	object_type
+12	B-	object_name
+soulful	I-	object_name
+nights	I-	object_name
+of	I-	object_name
+christmas	I-	object_name
+
+SearchCreativeWork
+show	O	O
+me	O	O
+the	O	O
+tv	B-	object_type
+show	I-	object_type
+limit	B-	object_name
+of	I-	object_name
+love	I-	object_name
+umizaru	I-	object_name
+
+SearchCreativeWork
+show	O	O
+me	O	O
+happiness	B-	object_name
+was	I-	object_name
+free	I-	object_name
+.	O	O
+
+SearchCreativeWork
+please	O	O
+search	O	O
+the	O	O
+title	O	O
+the	B-	object_name
+twilight	I-	object_name
+saga	I-	object_name
+breaking	I-	object_name
+dawn	I-	object_name
+part	I-	object_name
+2	I-	object_name
+.	O	O
+
+SearchCreativeWork
+find	O	O
+a	O	O
+painting	B-	object_type
+called	O	O
+screen	B-	object_name
+souvenirs	I-	object_name
+
+SearchCreativeWork
+find	O	O
+a	O	O
+trailer	B-	object_type
+called	O	O
+storm	B-	object_name
+center	I-	object_name
+.	O	O
+
+SearchCreativeWork
+i	O	O
+need	O	O
+the	O	O
+game	B-	object_type
+the	B-	object_name
+aria	I-	object_name
+music	I-	object_name
+show	I-	object_name
+
+SearchCreativeWork
+what	O	O
+is	O	O
+lost	B-	object_name
+land	I-	object_name
+of	I-	object_name
+the	I-	object_name
+tiger	I-	object_name
+
+SearchCreativeWork
+show	O	O
+the	O	O
+tv	B-	object_type
+series	I-	object_type
+the	B-	object_name
+merry	I-	object_name
+sisters	I-	object_name
+of	I-	object_name
+fate	I-	object_name
+.	O	O
+
+SearchCreativeWork
+show	O	O
+creative	O	O
+book	B-	object_type
+named	O	O
+pencil	B-	object_name
+thin	I-	object_name
+mustache	I-	object_name
+
+SearchCreativeWork
+play	O	O
+live	B-	object_name
+at	I-	object_name
+leeds	I-	object_name
+
+SearchCreativeWork
+find	O	O
+a	O	O
+tv	B-	object_type
+series	I-	object_type
+called	O	O
+church	B-	object_name
+of	I-	object_name
+the	I-	object_name
+truly	I-	object_name
+warped	I-	object_name
+.	O	O
+
+SearchCreativeWork
+find	O	O
+me	O	O
+the	O	O
+picture	B-	object_type
+the	B-	object_name
+id	I-	object_name
+
+SearchCreativeWork
+please	O	O
+find	O	O
+me	O	O
+the	O	O
+magic	B-	object_name
+hour	I-	object_name
+saga	B-	object_type
+.	O	O
+
+SearchCreativeWork
+play	O	O
+the	O	O
+cabin	B-	object_name
+fever	I-	object_name
+2	I-	object_name
+spring	I-	object_name
+fever	I-	object_name
+saga	B-	object_type
+
+SearchCreativeWork
+i	O	O
+want	O	O
+to	O	O
+read	O	O
+the	O	O
+novel	B-	object_type
+love	B-	object_name
+is	I-	object_name
+in	I-	object_name
+control	I-	object_name
+
+SearchCreativeWork
+i	O	O
+want	O	O
+to	O	O
+listen	O	O
+to	O	O
+the	O	O
+soundtrack	B-	object_type
+and	B-	object_name
+then	I-	object_name
+there	I-	object_name
+was	I-	object_name
+light	I-	object_name
+
+SearchCreativeWork
+where	O	O
+can	O	O
+i	O	O
+see	O	O
+the	O	O
+trailer	B-	object_type
+for	O	O
+love	B-	object_name
+on	I-	object_name
+the	I-	object_name
+beat	I-	object_name
+
+SearchCreativeWork
+play	O	O
+the	O	O
+trailer	B-	object_type
+for	O	O
+a	B-	object_name
+lineage	I-	object_name
+of	I-	object_name
+grace	I-	object_name
+
+SearchCreativeWork
+show	O	O
+the	O	O
+phish	B-	object_name
+live	I-	object_name
+in	I-	object_name
+vegas	I-	object_name
+tv	B-	object_type
+series	I-	object_type
+
+SearchCreativeWork
+can	O	O
+you	O	O
+find	O	O
+the	O	O
+tv	B-	object_type
+show	I-	object_type
+so	B-	object_name
+what	I-	object_name
+
+SearchCreativeWork
+pull	O	O
+up	O	O
+the	O	O
+book	B-	object_type
+live	B-	object_name
+and	I-	object_name
+unreleased	I-	object_name
+the	I-	object_name
+radio	I-	object_name
+show	I-	object_name
+
+SearchCreativeWork
+please	O	O
+search	O	O
+thirayum	B-	object_name
+theeravum	I-	object_name
+video	B-	object_type
+game	I-	object_type
+.	O	O
+
+SearchCreativeWork
+can	O	O
+you	O	O
+get	O	O
+me	O	O
+the	O	O
+starcross	B-	object_name
+saga	B-	object_type
+?	O	O
+
+SearchCreativeWork
+i	O	O
+want	O	O
+to	O	O
+listen	O	O
+to	O	O
+the	O	O
+music	B-	object_name
+of	I-	object_name
+ghost	I-	object_name
+in	I-	object_name
+the	I-	object_name
+shell	I-	object_name
+stand	I-	object_name
+alone	I-	object_name
+complex	I-	object_name
+
+SearchCreativeWork
+show	O	O
+thousand	B-	object_name
+miles	I-	object_name
+movie	B-	object_type
+
+SearchCreativeWork
+find	O	O
+fanatic	B-	object_name
+.	O	O
+
+SearchCreativeWork
+play	O	O
+me	O	O
+a	O	O
+trailer	B-	object_type
+for	O	O
+the	B-	object_name
+north-west	I-	object_name
+passage	I-	object_name
+
+SearchCreativeWork
+i'd	O	O
+like	O	O
+to	O	O
+see	O	O
+spyforce	B-	object_name
+
+SearchCreativeWork
+i'd	O	O
+like	O	O
+to	O	O
+see	O	O
+the	B-	object_name
+river	I-	object_name
+of	I-	object_name
+stars	I-	object_name
+tv	B-	object_type
+series	I-	object_type
+
+SearchCreativeWork
+look	O	O
+for	O	O
+the	O	O
+trailer	B-	object_type
+of	O	O
+guitar	B-	object_name
+heaven	I-	object_name
+santana	I-	object_name
+performs	I-	object_name
+the	I-	object_name
+greatest	I-	object_name
+guitar	I-	object_name
+classics	I-	object_name
+of	I-	object_name
+all	I-	object_name
+time	I-	object_name
+
+SearchCreativeWork
+show	B-	object_type
+of	O	O
+from	B-	object_name
+south	I-	object_name
+africa	I-	object_name
+to	I-	object_name
+south	I-	object_name
+carolina	I-	object_name
+
+SearchCreativeWork
+can	O	O
+you	O	O
+help	O	O
+me	O	O
+find	O	O
+scholarmate	B-	object_name
+?	O	O
+
+SearchCreativeWork
+show	O	O
+me	O	O
+the	O	O
+photograph	B-	object_type
+rock	B-	object_name
+you	I-	object_name
+baby	I-	object_name
+
+SearchCreativeWork
+want	O	O
+to	O	O
+see	O	O
+the	O	O
+trailer	B-	object_type
+for	O	O
+the	B-	object_name
+prefect	I-	object_name
+
+SearchCreativeWork
+find	O	O
+a	O	O
+photograph	B-	object_type
+called	O	O
+between	B-	object_name
+the	I-	object_name
+days	I-	object_name
+
+SearchCreativeWork
+find	O	O
+a	O	O
+show	B-	object_type
+called	O	O
+ichibyōgoto	B-	object_name
+ni	I-	object_name
+love	I-	object_name
+for	I-	object_name
+you	I-	object_name
+.	O	O
+
+SearchCreativeWork
+what	O	O
+painting	B-	object_type
+is	O	O
+on	O	O
+the	B-	object_name
+cure	I-	object_name
+discography	I-	object_name
+?	O	O
+
+SearchCreativeWork
+show	O	O
+me	O	O
+the	O	O
+video	B-	object_type
+game	I-	object_type
+when	B-	object_name
+in	I-	object_name
+rome	I-	object_name
+2007	I-	object_name
+
+SearchCreativeWork
+search	O	O
+for	O	O
+chasing	B-	object_name
+fortune	I-	object_name
+a	O	O
+tv	B-	object_type
+series	I-	object_type
+.	O	O
+
+SearchCreativeWork
+look	O	O
+for	O	O
+the	O	O
+journal	B-	object_name
+of	I-	object_name
+toxicology	I-	object_name
+and	I-	object_name
+environmental	I-	object_name
+health	I-	object_name
+soundtrack	B-	object_type
+
+SearchCreativeWork
+read	O	O
+the	O	O
+novel	B-	object_type
+on-line	B-	object_name
+encyclopedia	I-	object_name
+of	I-	object_name
+integer	I-	object_name
+sequences	I-	object_name
+
+SearchCreativeWork
+find	O	O
+projections	B-	object_name
+,	O	O
+an	O	O
+album	B-	object_type
+
+SearchCreativeWork
+buy	O	O
+cannabis	B-	object_name
+painting	B-	object_type
+
+SearchCreativeWork
+i'd	O	O
+like	O	O
+to	O	O
+see	O	O
+the	O	O
+painting	B-	object_type
+empire	B-	object_name
+of	I-	object_name
+two	I-	object_name
+worlds	I-	object_name
+
+SearchCreativeWork
+i	O	O
+want	O	O
+to	O	O
+watch	O	O
+supernatural	B-	object_name
+the	I-	object_name
+unseen	I-	object_name
+powers	I-	object_name
+of	I-	object_name
+animals	I-	object_name
+
+SearchCreativeWork
+find	O	O
+a	O	O
+tv	B-	object_type
+show	I-	object_type
+called	O	O
+frontiers	B-	object_name
+in	I-	object_name
+ecology	I-	object_name
+and	I-	object_name
+the	I-	object_name
+environment	I-	object_name
+.	O	O
+
+SearchCreativeWork
+find	O	O
+saison	B-	object_name
+7	I-	object_name
+de	I-	object_name
+sons	I-	object_name
+of	I-	object_name
+anarchy	I-	object_name
+
+SearchCreativeWork
+i	O	O
+want	O	O
+to	O	O
+watch	O	O
+the	O	O
+television	B-	object_type
+show	I-	object_type
+symphony	B-	object_name
+for	I-	object_name
+solo	I-	object_name
+piano	I-	object_name
+
+SearchCreativeWork
+where	O	O
+can	O	O
+i	O	O
+watch	O	O
+the	O	O
+latest	O	O
+episode	O	O
+of	O	O
+the	O	O
+tv	B-	object_type
+show	I-	object_type
+chu	B-	object_name
+chu	I-	object_name
+and	I-	object_name
+the	I-	object_name
+philly	I-	object_name
+flash	I-	object_name
+?	O	O
+
+SearchCreativeWork
+has	O	O
+the	O	O
+tv	B-	object_type
+series	I-	object_type
+puppet	B-	object_name
+master	I-	object_name
+axis	I-	object_name
+of	I-	object_name
+evil	I-	object_name
+been	O	O
+cancelled?	O	O
+
+SearchCreativeWork
+can	O	O
+you	O	O
+search	O	O
+the	O	O
+picture	B-	object_type
+titled	O	O
+the	B-	object_name
+accounting	I-	object_name
+?	O	O
+
+SearchCreativeWork
+find	O	O
+the	O	O
+radical	B-	object_name
+history	I-	object_name
+review	I-	object_name
+saga	B-	object_type
+
+SearchCreativeWork
+show	O	O
+the	B-	object_name
+bridge	I-	object_name
+of	I-	object_name
+san	I-	object_name
+luis	I-	object_name
+rey	I-	object_name
+picture	B-	object_type
+
+SearchCreativeWork
+where	O	O
+can	O	O
+i	O	O
+find	O	O
+the	B-	object_name
+world	I-	object_name
+according	I-	object_name
+to	I-	object_name
+paris	I-	object_name
+?	O	O
+
+SearchScreeningEvent
+find	O	O
+a	O	O
+nearby	B-	spatial_relation
+movie	B-	object_type
+schedules	I-	object_type
+for	O	O
+movies	B-	movie_type
+
+SearchScreeningEvent
+what	O	O
+films	B-	movie_type
+are	O	O
+at	O	O
+the	O	O
+nearest	B-	spatial_relation
+cinema	B-	object_location_type
+
+SearchScreeningEvent
+find	O	O
+the	O	O
+schedule	B-	object_type
+for	O	O
+ghost	B-	movie_name
+world	I-	movie_name
+.	O	O
+
+SearchScreeningEvent
+is	O	O
+love	B-	movie_name
+is	I-	movie_name
+a	I-	movie_name
+ball	I-	movie_name
+playing	O	O
+right	O	O
+now	B-	timeRange
+?	O	O
+
+SearchScreeningEvent
+when	O	O
+can	O	O
+i	O	O
+see	O	O
+a	B-	movie_name
+handful	I-	movie_name
+of	I-	movie_name
+dust	I-	movie_name
+in	O	O
+a	O	O
+movie	B-	object_location_type
+theatre	I-	object_location_type
+
+SearchScreeningEvent
+what	O	O
+animated	B-	movie_type
+movies	I-	movie_type
+are	O	O
+playing	O	O
+close	B-	spatial_relation
+by	I-	spatial_relation
+at	O	O
+four	B-	timeRange
+o'clock	I-	timeRange
+?	O	O
+
+SearchScreeningEvent
+find	O	O
+the	O	O
+movie	B-	object_type
+schedule	I-	object_type
+for	O	O
+cooper	B-	location_name
+foundation	I-	location_name
+.	O	O
+
+SearchScreeningEvent
+what	O	O
+are	O	O
+the	O	O
+movie	B-	object_type
+schedules	I-	object_type
+
+SearchScreeningEvent
+what	O	O
+time	O	O
+is	O	O
+utamaro	B-	movie_name
+and	I-	movie_name
+his	I-	movie_name
+five	I-	movie_name
+women	I-	movie_name
+showing	O	O
+at	O	O
+alamo	B-	location_name
+drafthouse	I-	location_name
+cinema	I-	location_name
+
+SearchScreeningEvent
+list	O	O
+animated	B-	movie_type
+movies	I-	movie_type
+at	O	O
+the	O	O
+nearest	B-	spatial_relation
+cinema	B-	object_location_type
+
+SearchScreeningEvent
+where	O	O
+can	O	O
+i	O	O
+see	O	O
+the	B-	movie_name
+somme	I-	movie_name
+starting	O	O
+at	O	O
+16	B-	timeRange
+?	O	O
+
+SearchScreeningEvent
+what	O	O
+time	O	O
+is	O	O
+one	B-	movie_name
+night	I-	movie_name
+stand	I-	movie_name
+showing	O	O
+at	O	O
+cineplex	B-	location_name
+odeon	I-	location_name
+corporation	I-	location_name
+
+SearchScreeningEvent
+give	O	O
+me	O	O
+some	O	O
+movie	B-	object_type
+schedules	I-	object_type
+.	O	O
+
+SearchScreeningEvent
+give	O	O
+me	O	O
+the	O	O
+schedule	B-	object_type
+for	O	O
+getting	B-	movie_name
+there	I-	movie_name
+sweet	I-	movie_name
+16	I-	movie_name
+and	I-	movie_name
+licensed	I-	movie_name
+to	I-	movie_name
+drive	I-	movie_name
+
+SearchScreeningEvent
+i	O	O
+want	O	O
+to	O	O
+see	O	O
+some	O	O
+movies	B-	movie_type
+in	O	O
+a	O	O
+b&b	B-	location_name
+theatres	I-	location_name
+
+SearchScreeningEvent
+what	O	O
+are	O	O
+the	O	O
+movie	B-	object_type
+times	I-	object_type
+for	O	O
+dickinson	B-	location_name
+theatres	I-	location_name
+
+SearchScreeningEvent
+i	O	O
+want	O	O
+to	O	O
+see	O	O
+animated	B-	movie_type
+movie	I-	movie_type
+in	B-	spatial_relation
+the	I-	spatial_relation
+neighbourhood	I-	spatial_relation
+
+SearchScreeningEvent
+tell	O	O
+me	O	O
+what	O	O
+movies	B-	movie_type
+are	O	O
+playing	O	O
+in	B-	spatial_relation
+the	I-	spatial_relation
+neighborhood	I-	spatial_relation
+
+SearchScreeningEvent
+what	O	O
+time	O	O
+is	O	O
+bloody	B-	movie_name
+twilight	I-	movie_name
+playing?	O	O
+
+SearchScreeningEvent
+what	O	O
+animated	B-	movie_type
+movies	I-	movie_type
+are	O	O
+showing	O	O
+at	O	O
+star	B-	location_name
+theatres	I-	location_name
+
+SearchScreeningEvent
+is	O	O
+anti-semitism	B-	movie_name
+in	I-	movie_name
+the	I-	movie_name
+21st	I-	movie_name
+century	I-	movie_name
+the	I-	movie_name
+resurgence	I-	movie_name
+playing	O	O
+now	B-	timeRange
+
+SearchScreeningEvent
+what	O	O
+movies	B-	movie_type
+are	O	O
+playing	O	O
+at	O	O
+marcus	B-	location_name
+corporation	I-	location_name
+?	O	O
+
+SearchScreeningEvent
+what	O	O
+is	O	O
+the	O	O
+nearest	B-	spatial_relation
+movie	B-	object_location_type
+house	I-	object_location_type
+playing	O	O
+new	B-	movie_name
+york	I-	movie_name
+melody	I-	movie_name
+
+SearchScreeningEvent
+what	O	O
+time	O	O
+around	B-	spatial_relation
+here	I-	spatial_relation
+can	O	O
+i	O	O
+fins	O	O
+animated	B-	movie_type
+movies	I-	movie_type
+
+SearchScreeningEvent
+when	O	O
+will	O	O
+the	O	O
+santikos	B-	location_name
+theatres	I-	location_name
+be	O	O
+showing	O	O
+animated	B-	movie_type
+movies	I-	movie_type
+
+SearchScreeningEvent
+what	O	O
+is	O	O
+the	O	O
+closest	B-	spatial_relation
+movie	B-	object_location_type
+theatre	I-	object_location_type
+that	O	O
+is	O	O
+playing	O	O
+moment	B-	movie_name
+to	I-	movie_name
+moment	I-	movie_name
+?	O	O
+
+SearchScreeningEvent
+what	O	O
+movie	B-	object_type
+schedule	I-	object_type
+are	O	O
+in	B-	spatial_relation
+the	I-	spatial_relation
+area	I-	spatial_relation
+for	O	O
+animated	B-	movie_type
+movies	I-	movie_type
+
+SearchScreeningEvent
+please	O	O
+find	O	O
+the	O	O
+closest	B-	spatial_relation
+cinema	B-	object_location_type
+that's	O	O
+playing	O	O
+movies	B-	movie_type
+at	O	O
+9	B-	timeRange
+am	I-	timeRange
+
+SearchScreeningEvent
+what	O	O
+movie	B-	object_location_type
+house	I-	object_location_type
+is	O	O
+showing	O	O
+flower	B-	movie_name
+and	I-	movie_name
+snake	I-	movie_name
+at	O	O
+08	B-	timeRange
+?	O	O
+
+SearchScreeningEvent
+what	O	O
+time	O	O
+is	O	O
+the	B-	movie_name
+man	I-	movie_name
+who	I-	movie_name
+dared	I-	movie_name
+playing	O	O
+at	O	O
+the	O	O
+movie	B-	object_location_type
+theatre	I-	object_location_type
+?	O	O
+
+SearchScreeningEvent
+find	O	O
+a	O	O
+cinema	B-	object_location_type
+for	O	O
+the	B-	movie_name
+tenderfoot	I-	movie_name
+nearest	B-	spatial_relation
+me	O	O
+
+SearchScreeningEvent
+what's	O	O
+the	O	O
+closest	B-	spatial_relation
+cinema	B-	object_location_type
+playing	O	O
+six	B-	movie_name
+days	I-	movie_name
+three	I-	movie_name
+activists,	I-	movie_name
+three	I-	movie_name
+wars,	I-	movie_name
+one	I-	movie_name
+dream	I-	movie_name
+at	O	O
+sunrise	B-	timeRange
+
+SearchScreeningEvent
+what	O	O
+films	B-	movie_type
+are	O	O
+playing	O	O
+at	O	O
+the	O	O
+nearest	B-	spatial_relation
+movie	B-	object_location_type
+house	I-	object_location_type
+
+SearchScreeningEvent
+find	O	O
+a	O	O
+movie	B-	object_location_type
+house	I-	object_location_type
+closest	B-	spatial_relation
+showing	O	O
+operation	B-	movie_name
+kingdom	I-	movie_name
+
+SearchScreeningEvent
+what	O	O
+time	O	O
+is	O	O
+sundown	B-	movie_name
+the	I-	movie_name
+vampire	I-	movie_name
+in	I-	movie_name
+retreat	I-	movie_name
+showing	O	O
+
+SearchScreeningEvent
+show	O	O
+movies	B-	movie_type
+at	O	O
+the	O	O
+nearest	B-	spatial_relation
+movie	B-	object_location_type
+house	I-	object_location_type
+
+SearchScreeningEvent
+what's	O	O
+the	O	O
+movie	B-	object_type
+schedule	I-	object_type
+for	O	O
+b&b	B-	location_name
+theatres	I-	location_name
+?	O	O
+
+SearchScreeningEvent
+find	O	O
+me	O	O
+the	B-	movie_name
+twinkler	I-	movie_name
+playing	O	O
+at	O	O
+national	B-	location_name
+amusements	I-	location_name
+in	B-	timeRange
+2	I-	timeRange
+minutes	I-	timeRange
+
+SearchScreeningEvent
+can	O	O
+you	O	O
+give	O	O
+me	O	O
+the	O	O
+movie	B-	object_type
+times	I-	object_type
+
+SearchScreeningEvent
+what	O	O
+time	O	O
+is	O	O
+the	B-	movie_name
+hotline	I-	movie_name
+playing	O	O
+at	O	O
+the	O	O
+movie	B-	object_location_type
+theatre	I-	object_location_type
+
+SearchScreeningEvent
+fimd	O	O
+films	B-	movie_type
+around	B-	spatial_relation
+here	I-	spatial_relation
+
+SearchScreeningEvent
+show	O	O
+me	O	O
+movie	O	O
+time	O	O
+for	O	O
+i	B-	movie_name
+am	I-	movie_name
+sorry	I-	movie_name
+at	O	O
+my	O	O
+movie	B-	object_location_type
+house	I-	object_location_type
+
+SearchScreeningEvent
+find	O	O
+the	O	O
+movie	B-	object_type
+schedules	I-	object_type
+for	O	O
+movies	B-	movie_type
+close	B-	spatial_relation
+by	I-	spatial_relation
+
+SearchScreeningEvent
+find	O	O
+a	O	O
+movie	B-	object_location_type
+theatre	I-	object_location_type
+with	O	O
+life	B-	movie_name
+and	I-	movie_name
+death	I-	movie_name
+
+SearchScreeningEvent
+what	O	O
+time	O	O
+is	O	O
+doc	B-	movie_name
+savage	I-	movie_name
+the	I-	movie_name
+man	I-	movie_name
+of	I-	movie_name
+bronze	I-	movie_name
+playing	O	O
+
+SearchScreeningEvent
+i	O	O
+want	O	O
+to	O	O
+see	O	O
+the	O	O
+movie	B-	object_type
+schedules	I-	object_type
+for	O	O
+animated	B-	movie_type
+movies	I-	movie_type
+around	B-	spatial_relation
+here	I-	spatial_relation
+.	O	O
+
+SearchScreeningEvent
+find	O	O
+a	O	O
+movie	B-	object_type
+schedule	I-	object_type
+.	O	O
+
+SearchScreeningEvent
+find	O	O
+movie	B-	object_type
+times	I-	object_type
+for	O	O
+films	B-	movie_type
+in	B-	spatial_relation
+the	I-	spatial_relation
+area	I-	spatial_relation
+.	O	O
+
+SearchScreeningEvent
+what	O	O
+is	O	O
+the	O	O
+wanda	B-	location_name
+group	I-	location_name
+movie	B-	object_type
+schedules	I-	object_type
+
+SearchScreeningEvent
+can	O	O
+i	O	O
+get	O	O
+the	O	O
+movie	B-	object_type
+schedules	I-	object_type
+for	O	O
+loews	B-	location_name
+cineplex	I-	location_name
+?	O	O
+
+SearchScreeningEvent
+what	O	O
+are	O	O
+the	O	O
+movie	B-	object_type
+times	I-	object_type
+for	O	O
+movies	B-	movie_type
+close	B-	spatial_relation
+by	I-	spatial_relation
+
+SearchScreeningEvent
+what	O	O
+is	O	O
+the	O	O
+movie	B-	object_type
+times	I-	object_type
+at	O	O
+marcus	B-	location_name
+corporation	I-	location_name
+
+SearchScreeningEvent
+find	O	O
+the	O	O
+closest	B-	spatial_relation
+cinema	B-	object_location_type
+playing	O	O
+little	B-	movie_name
+red	I-	movie_name
+monkey	I-	movie_name
+.	O	O
+
+SearchScreeningEvent
+where	O	O
+is	O	O
+feast	B-	movie_name
+ii	I-	movie_name
+no	I-	movie_name
+limit	I-	movie_name
+playing	O	O
+
+SearchScreeningEvent
+show	O	O
+the	O	O
+movie	B-	object_type
+times	I-	object_type
+
+SearchScreeningEvent
+show	O	O
+the	O	O
+movie	B-	object_type
+schedule	I-	object_type
+and	O	O
+movies	B-	movie_type
+around	B-	spatial_relation
+here	I-	spatial_relation
+
+SearchScreeningEvent
+find	O	O
+the	O	O
+movie	B-	object_type
+schedule	I-	object_type
+for	O	O
+marcus	B-	location_name
+corporation	I-	location_name
+.	O	O
+
+SearchScreeningEvent
+list	O	O
+movie	B-	object_type
+schedules	I-	object_type
+
+SearchScreeningEvent
+i	O	O
+need	O	O
+to	O	O
+see	O	O
+a	O	O
+list	O	O
+of	O	O
+films	B-	movie_type
+and	O	O
+movie	B-	object_type
+times	I-	object_type
+in	B-	spatial_relation
+the	I-	spatial_relation
+area	I-	spatial_relation
+
+SearchScreeningEvent
+show	O	O
+me	O	O
+the	O	O
+schedule	B-	object_type
+of	O	O
+american	B-	movie_name
+primitive	I-	movie_name
+in	O	O
+santikos	B-	location_name
+theatres	I-	location_name
+
+SearchScreeningEvent
+tell	O	O
+me	O	O
+what	O	O
+films	B-	movie_type
+are	O	O
+currently	O	O
+playing	O	O
+at	O	O
+amc	B-	location_name
+theaters	I-	location_name
+
+SearchScreeningEvent
+list	O	O
+movie	B-	object_type
+times	I-	object_type
+at	O	O
+harkins	B-	location_name
+theatres	I-	location_name
+
+SearchScreeningEvent
+find	O	O
+animated	B-	movie_type
+movies	I-	movie_type
+at	O	O
+caribbean	B-	location_name
+cinemas	I-	location_name
+
+SearchScreeningEvent
+give	O	O
+me	O	O
+a	O	O
+list	O	O
+of	O	O
+movie	B-	object_type
+times	I-	object_type
+for	O	O
+films	B-	movie_type
+in	B-	spatial_relation
+the	I-	spatial_relation
+area	I-	spatial_relation
+.	O	O
+
+SearchScreeningEvent
+i'd	O	O
+like	O	O
+to	O	O
+watch	O	O
+movies	B-	movie_type
+at	O	O
+the	O	O
+nearest	B-	spatial_relation
+movie	B-	object_location_type
+house	I-	object_location_type
+
+SearchScreeningEvent
+what	O	O
+time	O	O
+is	O	O
+the	B-	movie_name
+challenge	I-	movie_name
+showing	O	O
+at	O	O
+the	O	O
+local	O	O
+movie	B-	object_location_type
+house	I-	object_location_type
+
+SearchScreeningEvent
+when	O	O
+is	O	O
+that	B-	movie_name
+forward	I-	movie_name
+center	I-	movie_name
+died	I-	movie_name
+at	I-	movie_name
+dawn	I-	movie_name
+playing	O	O
+at	O	O
+the	O	O
+closest	B-	spatial_relation
+cinema	B-	object_location_type
+?	O	O
+
+SearchScreeningEvent
+can	O	O
+i	O	O
+see	O	O
+the	O	O
+movie	B-	object_type
+schedules	I-	object_type
+?	O	O
+
+SearchScreeningEvent
+where	O	O
+is	O	O
+nichiren	B-	movie_name
+to	I-	movie_name
+mōko	I-	movie_name
+daishūrai	I-	movie_name
+playing	O	O
+
+SearchScreeningEvent
+what	O	O
+movies	B-	movie_type
+are	O	O
+scheduled	O	O
+in	B-	spatial_relation
+the	I-	spatial_relation
+neighbourhood	I-	spatial_relation
+?	O	O
+
+SearchScreeningEvent
+which	O	O
+is	O	O
+the	O	O
+nearest	B-	spatial_relation
+cinema	B-	object_location_type
+showing	O	O
+movies	B-	movie_type
+that	O	O
+start	O	O
+in	B-	timeRange
+nineteen	I-	timeRange
+seconds	I-	timeRange
+?	O	O
+
+SearchScreeningEvent
+what	O	O
+are	O	O
+the	O	O
+movie	B-	object_type
+times	I-	object_type
+for	O	O
+the	O	O
+caribbean	B-	location_name
+cinemas	I-	location_name
+?	O	O
+
+SearchScreeningEvent
+find	O	O
+vegucated	B-	movie_name
+starting	O	O
+at	O	O
+zero	B-	timeRange
+pm	I-	timeRange
+
+SearchScreeningEvent
+when	O	O
+is	O	O
+eye	B-	movie_name
+of	I-	movie_name
+the	I-	movie_name
+spider	I-	movie_name
+playing	O	O
+at	O	O
+regal	B-	location_name
+entertainment	I-	location_name
+group	I-	location_name
+?	O	O
+
+SearchScreeningEvent
+find	O	O
+the	O	O
+movie	B-	object_type
+times	I-	object_type
+for	O	O
+films	B-	movie_type
+in	B-	spatial_relation
+the	I-	spatial_relation
+area	I-	spatial_relation
+.	O	O
+
+SearchScreeningEvent
+i'd	O	O
+like	O	O
+to	O	O
+see	O	O
+the	O	O
+movie	B-	object_type
+schedule	I-	object_type
+for	O	O
+movies	B-	movie_type
+in	B-	spatial_relation
+the	I-	spatial_relation
+area	I-	spatial_relation
+
+SearchScreeningEvent
+which	O	O
+animated	B-	movie_type
+movies	I-	movie_type
+are	O	O
+playing	O	O
+at	O	O
+the	O	O
+nearest	B-	spatial_relation
+movie	B-	object_location_type
+house	I-	object_location_type
+?	O	O
+
+SearchScreeningEvent
+find	O	O
+the	O	O
+movie	B-	object_type
+schedules	I-	object_type
+for	O	O
+animated	B-	movie_type
+movies	I-	movie_type
+nearby	B-	spatial_relation
+at	O	O
+09	B-	timeRange
+am	I-	timeRange
+.	O	O
+
+SearchScreeningEvent
+find	O	O
+the	O	O
+schedule	B-	object_type
+for	O	O
+fear	B-	movie_name
+chamber	I-	movie_name
+.	O	O
+
+SearchScreeningEvent
+is	O	O
+tarzan	B-	movie_name
+of	I-	movie_name
+the	I-	movie_name
+apes	I-	movie_name
+playing	O	O
+at	O	O
+cobb	B-	location_name
+theatres	I-	location_name
+
+SearchScreeningEvent
+can	O	O
+you	O	O
+tell	O	O
+me	O	O
+the	O	O
+movies	B-	movie_type
+playing	O	O
+at	O	O
+united	B-	location_name
+paramount	I-	location_name
+theatres	I-	location_name
+
+SearchScreeningEvent
+find	O	O
+movie	B-	object_type
+schedules	I-	object_type
+for	O	O
+arclight	B-	location_name
+hollywood	I-	location_name
+.	O	O
+
+SearchScreeningEvent
+where	O	O
+is	O	O
+the	B-	movie_name
+man	I-	movie_name
+with	I-	movie_name
+a	I-	movie_name
+cross	I-	movie_name
+playing	O	O
+
+SearchScreeningEvent
+show	O	O
+movie	B-	object_type
+times	I-	object_type
+
+SearchScreeningEvent
+is	O	O
+a	B-	movie_name
+short	I-	movie_name
+film	I-	movie_name
+about	I-	movie_name
+killing	I-	movie_name
+at	O	O
+north	B-	location_name
+american	I-	location_name
+cinemas	I-	location_name
+
+SearchScreeningEvent
+can	O	O
+you	O	O
+give	O	O
+me	O	O
+the	O	O
+movie	B-	object_type
+schedule	I-	object_type
+for	O	O
+amco	B-	location_name
+entertainment	I-	location_name
+?	O	O
+
+SearchScreeningEvent
+which	O	O
+movies	B-	movie_type
+are	O	O
+playing	O	O
+in	B-	spatial_relation
+the	I-	spatial_relation
+neighborhood	I-	spatial_relation
+?	O	O
+
+SearchScreeningEvent
+what	O	O
+films	B-	movie_type
+are	O	O
+playing	O	O
+in	B-	spatial_relation
+the	I-	spatial_relation
+neighbourhood	I-	spatial_relation
+
+SearchScreeningEvent
+what	O	O
+is	O	O
+the	O	O
+movie	B-	object_type
+schedule	I-	object_type
+for	O	O
+the	O	O
+cooper	B-	location_name
+foundation	I-	location_name
+
+SearchScreeningEvent
+find	O	O
+me	O	O
+the	O	O
+movie	B-	object_type
+times	I-	object_type
+
+SearchScreeningEvent
+what	O	O
+film	B-	movie_type
+is	O	O
+playing	O	O
+in	B-	spatial_relation
+the	I-	spatial_relation
+neighbourhood	I-	spatial_relation
+
+SearchScreeningEvent
+i'd	O	O
+like	O	O
+to	O	O
+watch	O	O
+broadway	B-	movie_name
+nights	I-	movie_name
+at	O	O
+megaplex	B-	location_name
+theatres	I-	location_name
+
+SearchScreeningEvent
+i'd	O	O
+like	O	O
+to	O	O
+see	O	O
+the	O	O
+showtimes	O	O
+for	O	O
+silly	B-	movie_name
+movie	I-	movie_name
+2.0	I-	movie_name
+at	O	O
+the	O	O
+movie	B-	object_location_type
+house	I-	object_location_type
+
+SearchScreeningEvent
+what	O	O
+are	O	O
+the	O	O
+current	O	O
+showtimes	O	O
+for	O	O
+love	B-	movie_name
+fiction	I-	movie_name
+?	O	O
+
+SearchScreeningEvent
+what	O	O
+time	O	O
+does	O	O
+lilacs	B-	movie_name
+in	I-	movie_name
+the	I-	movie_name
+spring	I-	movie_name
+play	O	O
+at	O	O
+the	O	O
+closest	B-	spatial_relation
+movie	B-	object_location_type
+house	I-	object_location_type
+
+SearchScreeningEvent
+what	O	O
+time	O	O
+is	O	O
+roy	B-	movie_name
+colt	I-	movie_name
+&	I-	movie_name
+winchester	I-	movie_name
+jack	I-	movie_name
+playing	O	O
+at	O	O
+movie	B-	object_location_type
+house	I-	object_location_type
+
+SearchScreeningEvent
+find	O	O
+what	O	O
+movies	B-	movie_type
+are	O	O
+showing	O	O
+at	O	O
+the	O	O
+nearest	B-	spatial_relation
+movie	B-	object_location_type
+house	I-	object_location_type
+
+SearchScreeningEvent
+find	O	O
+a	O	O
+movie	B-	object_location_type
+house	I-	object_location_type
+for	O	O
+07	B-	timeRange
+showing	O	O
+ganges	B-	movie_name
+river	I-	movie_name
+to	I-	movie_name
+heaven	I-	movie_name
+
+SearchScreeningEvent
+tell	O	O
+me	O	O
+the	O	O
+movie	B-	object_type
+schedules	I-	object_type
+
+SearchScreeningEvent
+what	O	O
+time	O	O
+does	O	O
+johnny	B-	movie_name
+got	I-	movie_name
+his	I-	movie_name
+gun	I-	movie_name
+play	O	O
+
